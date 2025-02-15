@@ -20,20 +20,16 @@ async function fetchRepoStats(repoName) {
         const repoResponse = await axios.get(`${GITHUB_API_URL}/repos/${REPO_OWNER}/${repoName}`);
         const repoData = repoResponse.data;
 
-        const trafficResponse = await axios.get(`${GITHUB_API_URL}/repos/${REPO_OWNER}/${repoName}/traffic/clones`);
-        const trafficData = trafficResponse.data;
+        
+    
 
         const stats = {
             name: repoData.name,
             stars: repoData.stargazers_count,
             forks: repoData.forks_count,
             watchers: repoData.watchers_count,
-            issues: repoData.open_issues_count,
-            clones_today: trafficData.count, // Assuming this is the count for today
-            unique_viewers: trafficData.uniques, // Assuming this is the unique viewers count
-            clones_14days: trafficData.count, // Placeholder, replace with actual data if available
-            unique_viewers_14days: trafficData.uniques, // Placeholder, replace with actual data if available
-            all_clones: trafficData.count // Placeholder, replace with actual data if available
+            issues: repoData.open_issues_count
+    
         };
 
         return stats;
