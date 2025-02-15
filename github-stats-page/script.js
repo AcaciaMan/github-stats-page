@@ -12,8 +12,37 @@ document.addEventListener('DOMContentLoaded', function() {
                     <td>${repo.forks_count}</td>
                     <td>${repo.watchers_count}</td>
                     <td>${repo.open_issues_count}</td>
+                    <td id="clones-today-${repo.name}">Loading...</td>
+                    <td id="unique-viewers-${repo.name}">Loading...</td>
+                    <td id="clones-14days-${repo.name}">Loading...</td>
+                    <td id="unique-viewers-14days-${repo.name}">Loading...</td>
+                    <td id="all-clones-${repo.name}">Loading...</td>
                 `;
                 statsTableBody.appendChild(row);
+
+                fetch(`https://api.github.com/repos/AcaciaMan/${repo.name}/traffic/clones`)
+                    .then(response => response.json())
+                    .then(clones => {
+                        const todayClones = clones.clones.find(clone => new Date(clone.timestamp).toDateString() === new Date().toDateString());
+                        const clones14Days = clones.count;
+                        const allClones = clones.count;
+
+                        document.getElementById(`clones-today-${repo.name}`).textContent = todayClones ? todayClones.count : 0;
+                        document.getElementById(`clones-14days-${repo.name}`).textContent = clones14Days;
+                        document.getElementById(`all-clones-${repo.name}`).textContent = allClones;
+                    })
+                    .catch(error => console.error('Error fetching clones:', error));
+
+                fetch(`https://api.github.com/repos/AcaciaMan/${repo.name}/traffic/views`)
+                    .then(response => response.json())
+                    .then(views => {
+                        const todayViews = views.views.find(view => new Date(view.timestamp).toDateString() === new Date().toDateString());
+                        const views14Days = views.count;
+
+                        document.getElementById(`unique-viewers-${repo.name}`).textContent = todayViews ? todayViews.uniques : 0;
+                        document.getElementById(`unique-viewers-14days-${repo.name}`).textContent = views14Days;
+                    })
+                    .catch(error => console.error('Error fetching views:', error));
             });
         })
         .catch(error => console.error('Error fetching repos:', error));
