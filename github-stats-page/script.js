@@ -1,51 +1,27 @@
 document.addEventListener('DOMContentLoaded', function() {
     const statsTableBody = document.querySelector('#stats-table tbody');
 
-    fetch('https://api.github.com/users/AcaciaMan/repos')
+    fetch('stats.json')
         .then(response => response.json())
-        .then(repos => {
-            repos.forEach(repo => {
+        .then(stats => {
+            stats.forEach(repo => {
                 const row = document.createElement('tr');
                 row.innerHTML = `
                     <td>${repo.name}</td>
-                    <td>${repo.stargazers_count}</td>
-                    <td>${repo.forks_count}</td>
-                    <td>${repo.watchers_count}</td>
-                    <td>${repo.open_issues_count}</td>
-                    <td id="clones-today-${repo.name}">Loading...</td>
-                    <td id="unique-viewers-${repo.name}">Loading...</td>
-                    <td id="clones-14days-${repo.name}">Loading...</td>
-                    <td id="unique-viewers-14days-${repo.name}">Loading...</td>
-                    <td id="all-clones-${repo.name}">Loading...</td>
+                    <td>${repo.stars}</td>
+                    <td>${repo.forks}</td>
+                    <td>${repo.watchers}</td>
+                    <td>${repo.issues}</td>
+                    <td>${repo.clones_today}</td>
+                    <td>${repo.unique_viewers}</td>
+                    <td>${repo.clones_14days}</td>
+                    <td>${repo.unique_viewers_14days}</td>
+                    <td>${repo.all_clones}</td>
                 `;
                 statsTableBody.appendChild(row);
-
-                fetch(`https://api.github.com/repos/AcaciaMan/${repo.name}/traffic/clones`)
-                    .then(response => response.json())
-                    .then(clones => {
-                        const todayClones = clones.clones.find(clone => new Date(clone.timestamp).toDateString() === new Date().toDateString());
-                        const clones14Days = clones.count;
-                        const allClones = clones.count;
-
-                        document.getElementById(`clones-today-${repo.name}`).textContent = todayClones ? todayClones.count : 0;
-                        document.getElementById(`clones-14days-${repo.name}`).textContent = clones14Days;
-                        document.getElementById(`all-clones-${repo.name}`).textContent = allClones;
-                    })
-                    .catch(error => console.error('Error fetching clones:', error));
-
-                fetch(`https://api.github.com/repos/AcaciaMan/${repo.name}/traffic/views`)
-                    .then(response => response.json())
-                    .then(views => {
-                        const todayViews = views.views.find(view => new Date(view.timestamp).toDateString() === new Date().toDateString());
-                        const views14Days = views.count;
-
-                        document.getElementById(`unique-viewers-${repo.name}`).textContent = todayViews ? todayViews.uniques : 0;
-                        document.getElementById(`unique-viewers-14days-${repo.name}`).textContent = views14Days;
-                    })
-                    .catch(error => console.error('Error fetching views:', error));
             });
         })
-        .catch(error => console.error('Error fetching repos:', error));
+        .catch(error => console.error('Error fetching stats:', error));
 
     document.querySelectorAll('th').forEach(header => {
         header.addEventListener('click', () => {
