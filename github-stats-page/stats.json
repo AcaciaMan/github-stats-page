@@ -1,12 +1,26 @@
-{
-  "name": "github-stats-page",
-  "stars": 0,
-  "forks": 0,
-  "watchers": 0,
-  "issues": 0,
-  "clones_today": 0,
-  "unique_viewers": 0,
-  "clones_14days": 0,
-  "unique_viewers_14days": 0,
-  "all_clones": 0
-}
+[
+  {
+    "name": "github-stats-page",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "issues": 0,
+    "clones_today": 0,
+    "unique_viewers": 0,
+    "clones_14days": 0,
+    "unique_viewers_14days": 0,
+    "all_clones": 0
+  },
+  {
+    "name": "another-repo",
+    "stars": 5,
+    "forks": 2,
+    "watchers": 3,
+    "issues": 1,
+    "clones_today": 10,
+    "unique_viewers": 7,
+    "clones_14days": 50,
+    "unique_viewers_14days": 30,
+    "all_clones": 100
+  }
+]

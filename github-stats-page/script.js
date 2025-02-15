@@ -4,20 +4,22 @@ document.addEventListener('DOMContentLoaded', function() {
     fetch('stats.json')
         .then(response => response.json())
         .then(stats => {
-            const row = document.createElement('tr');
-            row.innerHTML = `
-                <td>${stats.name}</td>
-                <td>${stats.stars}</td>
-                <td>${stats.forks}</td>
-                <td>${stats.watchers}</td>
-                <td>${stats.issues}</td>
-                <td>${stats.clones_today}</td>
-                <td>${stats.unique_viewers}</td>
-                <td>${stats.clones_14days}</td>
-                <td>${stats.unique_viewers_14days}</td>
-                <td>${stats.all_clones}</td>
-            `;
-            statsTableBody.appendChild(row);
+            stats.forEach(repo => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${repo.name}</td>
+                    <td>${repo.stars}</td>
+                    <td>${repo.forks}</td>
+                    <td>${repo.watchers}</td>
+                    <td>${repo.issues}</td>
+                    <td>${repo.clones_today}</td>
+                    <td>${repo.unique_viewers}</td>
+                    <td>${repo.clones_14days}</td>
+                    <td>${repo.unique_viewers_14days}</td>
+                    <td>${repo.all_clones}</td>
+                `;
+                statsTableBody.appendChild(row);
+            });
         })
         .catch(error => console.error('Error fetching stats:', error));
 
