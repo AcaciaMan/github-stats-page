@@ -20,16 +20,17 @@ async function fetchRepoStats(repoName) {
         const repoResponse = await axios.get(`${GITHUB_API_URL}/repos/${REPO_OWNER}/${repoName}`);
         const repoData = repoResponse.data;
 
-        
-    
+        const trafficViewsResponse = await axios.get(`${GITHUB_API_URL}/repos/${REPO_OWNER}/${repoName}/traffic/views`);
+        const trafficClonesResponse = await axios.get(`${GITHUB_API_URL}/repos/${REPO_OWNER}/${repoName}/traffic/clones`);
 
         const stats = {
             name: repoData.name,
             stars: repoData.stargazers_count,
             forks: repoData.forks_count,
             watchers: repoData.watchers_count,
-            issues: repoData.open_issues_count
-    
+            issues: repoData.open_issues_count,
+            trafficViews: trafficViewsResponse.data.count,
+            trafficClones: trafficClonesResponse.data.count
         };
 
         return stats;
