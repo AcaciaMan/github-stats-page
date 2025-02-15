@@ -12,11 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     <td>${repo.forks}</td>
                     <td>${repo.watchers}</td>
                     <td>${repo.issues}</td>
-                    <td>${repo.clones_today}</td>
-                    <td>${repo.unique_viewers}</td>
-                    <td>${repo.clones_14days}</td>
-                    <td>${repo.unique_viewers_14days}</td>
-                    <td>${repo.all_clones}</td>
+                    
                 `;
                 statsTableBody.appendChild(row);
             });
