@@ -1,0 +1,14 @@
+{
+  "name": "github-stats-page",
+  "version": "1.0.0",
+  "description": "A page to display GitHub user stats",
+  "main": "index.js",
+  "scripts": {
+    "fetch-stats": "node .github/scripts/fetch-stats.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "author": "AcaciaMan",
+  "license": "Apache-2.0"
+}
