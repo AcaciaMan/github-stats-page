@@ -12,7 +12,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     <td>${repo.forks}</td>
                     <td>${repo.watchers}</td>
                     <td>${repo.issues}</td>
-                    
+                    <td>${repo.trafficViews}</td>
+                    <td>${repo.trafficClones}</td>
                 `;
                 statsTableBody.appendChild(row);
             });

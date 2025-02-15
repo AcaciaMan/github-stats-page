@@ -4,118 +4,152 @@
     "stars": 1,
     "forks": 0,
     "watchers": 1,
-    "issues": 0
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 0
   },
   {
     "name": "acacia-forex",
     "stars": 1,
     "forks": 0,
     "watchers": 1,
-    "issues": 0
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 0
   },
   {
     "name": "acacia-lex",
     "stars": 1,
     "forks": 0,
     "watchers": 1,
-    "issues": 0
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 0
   },
   {
     "name": "acacia-log",
     "stars": 3,
     "forks": 0,
     "watchers": 3,
-    "issues": 1
+    "issues": 1,
+    "trafficViews": 0,
+    "trafficClones": 0
   },
   {
     "name": "acacia-parse",
     "stars": 1,
     "forks": 0,
     "watchers": 1,
-    "issues": 0
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 0
   },
   {
     "name": "acacia-regex",
     "stars": 1,
     "forks": 0,
     "watchers": 1,
-    "issues": 0
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 0
   },
   {
     "name": "canoe",
     "stars": 2,
     "forks": 0,
     "watchers": 2,
-    "issues": 0
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 0
   },
   {
     "name": "ClassTypist",
     "stars": 2,
     "forks": 0,
     "watchers": 2,
-    "issues": 0
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 0
   },
   {
     "name": "db-autotest",
     "stars": 2,
     "forks": 0,
     "watchers": 2,
-    "issues": 0
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 0
   },
   {
     "name": "db-autotest-vscode",
     "stars": 2,
     "forks": 0,
     "watchers": 2,
-    "issues": 0
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 0
   },
   {
     "name": "dec-tree-py",
     "stars": 1,
     "forks": 0,
     "watchers": 1,
-    "issues": 0
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 0
   },
   {
     "name": "dec-tree-vscode",
     "stars": 1,
     "forks": 0,
     "watchers": 1,
-    "issues": 0
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 0
   },
   {
     "name": "EnvironmentalTrends",
     "stars": 0,
     "forks": 0,
     "watchers": 0,
-    "issues": 0
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 0
   },
   {
     "name": "github-stats-page",
     "stars": 0,
     "forks": 0,
     "watchers": 0,
-    "issues": 0
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 0
   },
   {
     "name": "time-decomp",
     "stars": 2,
     "forks": 0,
     "watchers": 2,
-    "issues": 0
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 0
   },
   {
     "name": "ts-call-py",
     "stars": 2,
     "forks": 0,
     "watchers": 2,
-    "issues": 0
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 0
   },
   {
     "name": "vscode-git-kafka",
     "stars": 1,
     "forks": 0,
     "watchers": 1,
-    "issues": 1
+    "issues": 1,
+    "trafficViews": 0,
+    "trafficClones": 0
   }
 ]
