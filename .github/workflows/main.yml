@@ -21,11 +21,13 @@ jobs:
       run: npm install
 
     - name: Fetch GitHub stats
+      env:
+        GITHUB_TOKEN: ${{ secrets.Ptoken }}
       run: node .github/scripts/fetch-stats.js
 
     - name: Commit and push changes
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.Ptoken }}
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
