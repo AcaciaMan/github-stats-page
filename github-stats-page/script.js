@@ -1,5 +1,18 @@
 document.addEventListener('DOMContentLoaded', function() {
     const statsTableBody = document.querySelector('#stats-table tbody');
+    const totalStars = document.getElementById('total-stars');
+    const totalForks = document.getElementById('total-forks');
+    const totalWatchers = document.getElementById('total-watchers');
+    const totalIssues = document.getElementById('total-issues');
+    const totalViews = document.getElementById('total-views');
+    const totalClones = document.getElementById('total-clones');
+
+    let starsSum = 0;
+    let forksSum = 0;
+    let watchersSum = 0;
+    let issuesSum = 0;
+    let viewsSum = 0;
+    let clonesSum = 0;
 
     fetch('stats.json')
         .then(response => response.json())
@@ -16,7 +29,21 @@ document.addEventListener('DOMContentLoaded', function() {
                     <td>${repo.trafficClones}</td>
                 `;
                 statsTableBody.appendChild(row);
+
+                starsSum += repo.stars;
+                forksSum += repo.forks;
+                watchersSum += repo.watchers;
+                issuesSum += repo.issues;
+                viewsSum += repo.trafficViews;
+                clonesSum += repo.trafficClones;
             });
+
+            totalStars.textContent = starsSum;
+            totalForks.textContent = forksSum;
+            totalWatchers.textContent = watchersSum;
+            totalIssues.textContent = issuesSum;
+            totalViews.textContent = viewsSum;
+            totalClones.textContent = clonesSum;
         })
         .catch(error => console.error('Error fetching stats:', error));
 
