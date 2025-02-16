@@ -39,3 +39,13 @@ To use the personal access token in the workflow, you need to add it as a secret
 ### Using the GITHUB_TOKEN Environment Variable
 
 The script `.github/scripts/fetch-stats.js` uses the `GITHUB_TOKEN` environment variable for authentication when making requests to the GitHub API. Make sure to set the `GITHUB_TOKEN` environment variable in your GitHub Action workflows to avoid rate limiting issues.
+
+### Running the Workflow on Demand
+
+To run the workflow on demand, you can use the `workflow_dispatch` event trigger. This allows you to manually trigger the workflow from the GitHub Actions tab in your repository.
+
+1. Go to the repository on GitHub.
+2. Click on the "Actions" tab.
+3. Select the workflow you want to run.
+4. Click on the "Run workflow" button.
+5. Optionally, provide any required inputs and click "Run workflow" to start the workflow.
