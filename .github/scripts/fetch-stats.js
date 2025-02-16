@@ -40,14 +40,22 @@ async function fetchRepoStats(repoName) {
             }
         });
 
+        const trafficViewsResponse = await axios.get(`${GITHUB_API_URL}/repos/${REPO_OWNER}/${repoName}/traffic/views`, {
+            headers: {
+                Authorization: `token ${token}`
+            }
+        });
+
         const stats = {
             name: repoData.name,
             stars: repoData.stargazers_count,
             forks: repoData.forks_count,
             watchers: repoData.watchers_count,
             issues: repoData.open_issues_count,
-            trafficViews: 0,
-            trafficClones: trafficClonesResponse.data.count
+            trafficViews: trafficViewsResponse.data.count,
+            trafficClones: trafficClonesResponse.data.count,
+            trafficUniqueViews: trafficViewsResponse.data.uniques,
+            trafficUniqueClones: trafficClonesResponse.data.uniques
         };
 
         return stats;
