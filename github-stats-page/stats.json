@@ -27,10 +27,10 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 314,
-    "trafficClones": 42,
+    "trafficViews": 308,
+    "trafficClones": 39,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 25
+    "trafficUniqueClones": 23
   },
   {
     "name": "acacia-parse",
@@ -126,7 +126,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 73,
+    "trafficViews": 74,
     "trafficClones": 11,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 7
@@ -137,10 +137,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 569,
-    "trafficClones": 198,
+    "trafficViews": 605,
+    "trafficClones": 211,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 66
+    "trafficUniqueClones": 69
   },
   {
     "name": "time-decomp",
@@ -170,9 +170,9 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 360,
-    "trafficClones": 29,
+    "trafficViews": 356,
+    "trafficClones": 24,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 23
+    "trafficUniqueClones": 20
   }
 ]
