@@ -31,6 +31,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 const aText = a.children[index].textContent;
                 const bText = b.children[index].textContent;
 
+                if (!isNaN(aText) && !isNaN(bText)) {
+                    return ascending ? parseFloat(aText) - parseFloat(bText) : parseFloat(bText) - parseFloat(aText);
+                }
+
                 return ascending ? aText.localeCompare(bText) : bText.localeCompare(aText);
             });
 
