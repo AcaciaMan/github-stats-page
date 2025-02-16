@@ -6,6 +6,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const totalIssues = document.getElementById('total-issues');
     const totalViews = document.getElementById('total-views');
     const totalClones = document.getElementById('total-clones');
+    const totalUniqueViews = document.getElementById('total-unique-views');
+    const totalUniqueClones = document.getElementById('total-unique-clones');
 
     let starsSum = 0;
     let forksSum = 0;
@@ -13,6 +15,8 @@ document.addEventListener('DOMContentLoaded', function() {
     let issuesSum = 0;
     let viewsSum = 0;
     let clonesSum = 0;
+    let uniqueViewsSum = 0;
+    let uniqueClonesSum = 0;
 
     fetch('stats.json')
         .then(response => response.json())
@@ -27,6 +31,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     <td>${repo.issues}</td>
                     <td>${repo.trafficViews}</td>
                     <td>${repo.trafficClones}</td>
+                    <td>${repo.trafficUniqueViews}</td>
+                    <td>${repo.trafficUniqueClones}</td>
                 `;
                 statsTableBody.appendChild(row);
 
@@ -36,6 +42,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 issuesSum += repo.issues;
                 viewsSum += repo.trafficViews;
                 clonesSum += repo.trafficClones;
+                uniqueViewsSum += repo.trafficUniqueViews;
+                uniqueClonesSum += repo.trafficUniqueClones;
             });
 
             totalStars.textContent = starsSum;
@@ -44,6 +52,8 @@ document.addEventListener('DOMContentLoaded', function() {
             totalIssues.textContent = issuesSum;
             totalViews.textContent = viewsSum;
             totalClones.textContent = clonesSum;
+            totalUniqueViews.textContent = uniqueViewsSum;
+            totalUniqueClones.textContent = uniqueClonesSum;
         })
         .catch(error => console.error('Error fetching stats:', error));
 
