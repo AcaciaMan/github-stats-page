@@ -5,9 +5,18 @@ const GITHUB_API_URL = 'https://api.github.com';
 const REPO_OWNER = 'AcaciaMan';
 const STATS_FILE_PATH = 'github-stats-page/stats.json';
 
+function getGithubToken() {
+    return process.env.GITHUB_TOKEN;
+}
+
 async function fetchAllRepos() {
     try {
-        const reposResponse = await axios.get(`${GITHUB_API_URL}/users/${REPO_OWNER}/repos`);
+        const token = getGithubToken();
+        const reposResponse = await axios.get(`${GITHUB_API_URL}/users/${REPO_OWNER}/repos`, {
+            headers: {
+                Authorization: `token ${token}`
+            }
+        });
         return reposResponse.data;
     } catch (error) {
         console.error('Error fetching repositories:', error);
@@ -17,11 +26,19 @@ async function fetchAllRepos() {
 
 async function fetchRepoStats(repoName) {
     try {
-        const repoResponse = await axios.get(`${GITHUB_API_URL}/repos/${REPO_OWNER}/${repoName}`);
+        const token = getGithubToken();
+        const repoResponse = await axios.get(`${GITHUB_API_URL}/repos/${REPO_OWNER}/${repoName}`, {
+            headers: {
+                Authorization: `token ${token}`
+            }
+        });
         const repoData = repoResponse.data;
 
-        
-        const trafficClonesResponse = await axios.get(`${GITHUB_API_URL}/repos/${REPO_OWNER}/${repoName}/traffic/clones`);
+        const trafficClonesResponse = await axios.get(`${GITHUB_API_URL}/repos/${REPO_OWNER}/${repoName}/traffic/clones`, {
+            headers: {
+                Authorization: `token ${token}`
+            }
+        });
 
         const stats = {
             name: repoData.name,
