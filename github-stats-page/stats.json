@@ -27,7 +27,7 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 305,
+    "trafficViews": 300,
     "trafficClones": 39,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 23
@@ -137,10 +137,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 615,
-    "trafficClones": 217,
+    "trafficViews": 625,
+    "trafficClones": 228,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 70
+    "trafficUniqueClones": 72
   },
   {
     "name": "time-decomp",
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 354,
+    "trafficViews": 349,
     "trafficClones": 24,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 20
