@@ -35,3 +35,7 @@ To use the personal access token in the workflow, you need to add it as a secret
 3. Click on "New repository secret".
 4. Name the secret `GITHUB_TOKEN` and paste the personal access token you generated earlier.
 5. Click "Add secret".
+
+### Using the GITHUB_TOKEN Environment Variable
+
+The script `.github/scripts/fetch-stats.js` uses the `GITHUB_TOKEN` environment variable for authentication when making requests to the GitHub API. Make sure to set the `GITHUB_TOKEN` environment variable in your GitHub Action workflows to avoid rate limiting issues.
