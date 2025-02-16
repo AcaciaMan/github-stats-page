@@ -26,11 +26,9 @@ jobs:
       run: node .github/scripts/fetch-stats.js
 
     - name: Commit and push changes
-      env:
-        GITHUB_TOKEN: ${{ secrets.Ptoken }}
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add github-stats-page/stats.json
         git commit -m 'Update GitHub stats'
-        git push https://$GITHUB_TOKEN@github.com/AcaciaMan/acacia-forex.git
+        git push
