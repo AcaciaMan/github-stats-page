@@ -27,10 +27,10 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 250,
-    "trafficClones": 21,
+    "trafficViews": 246,
+    "trafficClones": 20,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 16
+    "trafficUniqueClones": 15
   },
   {
     "name": "acacia-parse",
@@ -137,8 +137,8 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 646,
-    "trafficClones": 246,
+    "trafficViews": 651,
+    "trafficClones": 250,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 74
   },
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 325,
+    "trafficViews": 324,
     "trafficClones": 24,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 20
