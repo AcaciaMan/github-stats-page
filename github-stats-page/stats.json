@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 1,
     "issues": 0,
-    "trafficViews": 318,
-    "trafficClones": 66,
+    "trafficViews": 331,
+    "trafficClones": 69,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 39
+    "trafficUniqueClones": 40
   },
   {
     "name": "acacia-lex",
@@ -27,7 +27,7 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 202,
+    "trafficViews": 200,
     "trafficClones": 12,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 10
@@ -105,9 +105,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "dec-tree-vscode",
@@ -126,7 +126,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 91,
+    "trafficViews": 93,
     "trafficClones": 15,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 10
@@ -137,10 +137,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 714,
-    "trafficClones": 265,
+    "trafficViews": 728,
+    "trafficClones": 272,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 75
+    "trafficUniqueClones": 77
   },
   {
     "name": "time-decomp",
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 310,
+    "trafficViews": 309,
     "trafficClones": 23,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 19
