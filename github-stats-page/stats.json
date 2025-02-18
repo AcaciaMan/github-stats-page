@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 1,
     "issues": 0,
-    "trafficViews": 338,
-    "trafficClones": 69,
+    "trafficViews": 353,
+    "trafficClones": 77,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 40
+    "trafficUniqueClones": 44
   },
   {
     "name": "acacia-lex",
@@ -27,7 +27,7 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 163,
+    "trafficViews": 152,
     "trafficClones": 8,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 7
@@ -82,7 +82,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 1,
+    "trafficViews": 2,
     "trafficClones": 0,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 0
@@ -137,10 +137,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 749,
-    "trafficClones": 276,
+    "trafficViews": 763,
+    "trafficClones": 282,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 78
+    "trafficUniqueClones": 79
   },
   {
     "name": "time-decomp",
@@ -148,7 +148,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 32,
+    "trafficViews": 34,
     "trafficClones": 1,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 1
@@ -170,9 +170,9 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 292,
-    "trafficClones": 23,
+    "trafficViews": 280,
+    "trafficClones": 19,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 19
+    "trafficUniqueClones": 17
   }
 ]
