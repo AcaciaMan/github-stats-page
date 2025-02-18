@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 0,
-    "trafficViews": 331,
+    "trafficViews": 338,
     "trafficClones": 69,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 40
@@ -27,10 +27,10 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 200,
-    "trafficClones": 12,
+    "trafficViews": 163,
+    "trafficClones": 8,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 10
+    "trafficUniqueClones": 7
   },
   {
     "name": "acacia-parse",
@@ -50,9 +50,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "canoe",
@@ -61,9 +61,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "ClassTypist",
@@ -105,9 +105,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "dec-tree-vscode",
@@ -137,10 +137,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 728,
-    "trafficClones": 272,
+    "trafficViews": 749,
+    "trafficClones": 276,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 77
+    "trafficUniqueClones": 78
   },
   {
     "name": "time-decomp",
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 309,
+    "trafficViews": 292,
     "trafficClones": 23,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 19
