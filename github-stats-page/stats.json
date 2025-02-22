@@ -4,8 +4,8 @@
     "stars": 1,
     "forks": 0,
     "watchers": 1,
-    "issues": 0,
-    "trafficViews": 422,
+    "issues": 1,
+    "trafficViews": 439,
     "trafficClones": 91,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 54
@@ -27,7 +27,7 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 27,
+    "trafficViews": 23,
     "trafficClones": 2,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 2
@@ -137,10 +137,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 892,
-    "trafficClones": 343,
+    "trafficViews": 901,
+    "trafficClones": 347,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 91
+    "trafficUniqueClones": 92
   },
   {
     "name": "time-decomp",
@@ -148,9 +148,9 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 95,
+    "trafficViews": 113,
     "trafficClones": 34,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 2,
     "trafficUniqueClones": 24
   },
   {
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 97,
+    "trafficViews": 93,
     "trafficClones": 4,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 4
