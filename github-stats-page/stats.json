@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 0,
-    "trafficViews": 421,
+    "trafficViews": 422,
     "trafficClones": 91,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 54
@@ -27,7 +27,7 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 33,
+    "trafficViews": 27,
     "trafficClones": 2,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 2
@@ -137,10 +137,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 883,
-    "trafficClones": 337,
+    "trafficViews": 892,
+    "trafficClones": 343,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 90
+    "trafficUniqueClones": 91
   },
   {
     "name": "time-decomp",
@@ -148,10 +148,10 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 64,
-    "trafficClones": 17,
+    "trafficViews": 95,
+    "trafficClones": 34,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 13
+    "trafficUniqueClones": 24
   },
   {
     "name": "ts-call-py",
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 104,
+    "trafficViews": 97,
     "trafficClones": 4,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 4
