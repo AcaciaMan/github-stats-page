@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 452,
+    "trafficViews": 460,
     "trafficClones": 98,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 56
@@ -27,7 +27,7 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 18,
+    "trafficViews": 10,
     "trafficClones": 3,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 3
@@ -94,9 +94,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 0,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 0
   },
   {
     "name": "dec-tree-py",
@@ -137,10 +137,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 923,
-    "trafficClones": 359,
+    "trafficViews": 932,
+    "trafficClones": 366,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 93
+    "trafficUniqueClones": 94
   },
   {
     "name": "time-decomp",
@@ -148,7 +148,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 120,
+    "trafficViews": 124,
     "trafficClones": 34,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 24
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 87,
+    "trafficViews": 76,
     "trafficClones": 4,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 4
