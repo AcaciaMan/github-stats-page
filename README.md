@@ -4,6 +4,8 @@
 
 This page displays GitHub user stats such as followers count, stars count, stars last 14 days count, repositories count, unique viewers count, and allows sorting by these stats.
 
+![Screenshot_stats_page](https://github.com/user-attachments/assets/dd32e9ef-bec1-4816-8ca3-d8bc2757cabe)
+
 ### How to Use
 
 1. Open the `github-stats-page/index.html` file in your web browser.
