@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 460,
-    "trafficClones": 98,
+    "trafficViews": 448,
+    "trafficClones": 91,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 56
+    "trafficUniqueClones": 52
   },
   {
     "name": "acacia-lex",
@@ -27,7 +27,7 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 10,
+    "trafficViews": 3,
     "trafficClones": 3,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 3
@@ -137,10 +137,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 932,
-    "trafficClones": 366,
+    "trafficViews": 936,
+    "trafficClones": 370,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 94
+    "trafficUniqueClones": 95
   },
   {
     "name": "time-decomp",
@@ -148,10 +148,10 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 124,
-    "trafficClones": 34,
+    "trafficViews": 145,
+    "trafficClones": 46,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 24
+    "trafficUniqueClones": 32
   },
   {
     "name": "ts-call-py",
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 76,
+    "trafficViews": 66,
     "trafficClones": 4,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 4
