@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 400,
+    "trafficViews": 383,
     "trafficClones": 79,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 46
@@ -83,9 +83,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 2,
-    "trafficClones": 2,
+    "trafficClones": 3,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   },
   {
     "name": "db-autotest-vscode",
@@ -94,9 +94,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 0,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 0
+    "trafficUniqueClones": 1
   },
   {
     "name": "dec-tree-py",
@@ -137,10 +137,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 945,
-    "trafficClones": 376,
+    "trafficViews": 946,
+    "trafficClones": 383,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 95
+    "trafficUniqueClones": 96
   },
   {
     "name": "time-decomp",
@@ -148,7 +148,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 155,
+    "trafficViews": 160,
     "trafficClones": 46,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 32
@@ -159,10 +159,10 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 102,
-    "trafficClones": 23,
+    "trafficViews": 72,
+    "trafficClones": 5,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 13
+    "trafficUniqueClones": 4
   },
   {
     "name": "vscode-git-kafka",
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 54,
+    "trafficViews": 46,
     "trafficClones": 4,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 4
