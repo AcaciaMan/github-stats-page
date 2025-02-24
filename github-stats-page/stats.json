@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 448,
-    "trafficClones": 91,
+    "trafficViews": 400,
+    "trafficClones": 79,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 52
+    "trafficUniqueClones": 46
   },
   {
     "name": "acacia-lex",
@@ -27,7 +27,7 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 3,
+    "trafficViews": 1,
     "trafficClones": 3,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 3
@@ -137,8 +137,8 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 936,
-    "trafficClones": 370,
+    "trafficViews": 945,
+    "trafficClones": 376,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 95
   },
@@ -148,7 +148,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 145,
+    "trafficViews": 155,
     "trafficClones": 46,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 32
@@ -160,9 +160,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 102,
-    "trafficClones": 22,
+    "trafficClones": 23,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 12
+    "trafficUniqueClones": 13
   },
   {
     "name": "vscode-git-kafka",
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 66,
+    "trafficViews": 54,
     "trafficClones": 4,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 4
