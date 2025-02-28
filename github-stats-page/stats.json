@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 257,
-    "trafficClones": 57,
+    "trafficViews": 244,
+    "trafficClones": 55,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 34
+    "trafficUniqueClones": 33
   },
   {
     "name": "acacia-lex",
@@ -82,7 +82,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 2,
+    "trafficViews": 1,
     "trafficClones": 3,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 3
@@ -137,10 +137,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 976,
-    "trafficClones": 421,
+    "trafficViews": 993,
+    "trafficClones": 428,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 103
+    "trafficUniqueClones": 104
   },
   {
     "name": "time-decomp",
@@ -148,10 +148,10 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 198,
-    "trafficClones": 47,
+    "trafficViews": 202,
+    "trafficClones": 46,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 33
+    "trafficUniqueClones": 32
   },
   {
     "name": "ts-call-py",
@@ -159,10 +159,10 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 19,
-    "trafficClones": 4,
+    "trafficViews": 14,
+    "trafficClones": 5,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 5
   },
   {
     "name": "vscode-git-kafka",
@@ -170,9 +170,9 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 36,
-    "trafficClones": 2,
+    "trafficViews": 30,
+    "trafficClones": 3,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   }
 ]
