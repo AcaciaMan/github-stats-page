@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 244,
+    "trafficViews": 233,
     "trafficClones": 55,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 33
@@ -28,9 +28,9 @@
     "watchers": 3,
     "issues": 1,
     "trafficViews": 1,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-parse",
@@ -105,9 +105,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 0,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 0
   },
   {
     "name": "dec-tree-vscode",
@@ -137,10 +137,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 993,
-    "trafficClones": 428,
+    "trafficViews": 997,
+    "trafficClones": 433,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 104
+    "trafficUniqueClones": 105
   },
   {
     "name": "time-decomp",
@@ -160,9 +160,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 14,
-    "trafficClones": 5,
+    "trafficClones": 4,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 4
   },
   {
     "name": "vscode-git-kafka",
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 30,
+    "trafficViews": 26,
     "trafficClones": 3,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 3
