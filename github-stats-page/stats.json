@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 290,
-    "trafficClones": 70,
+    "trafficViews": 257,
+    "trafficClones": 57,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 42
+    "trafficUniqueClones": 34
   },
   {
     "name": "acacia-lex",
@@ -28,9 +28,9 @@
     "watchers": 3,
     "issues": 1,
     "trafficViews": 1,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "acacia-parse",
@@ -39,9 +39,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-regex",
@@ -137,8 +137,8 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 972,
-    "trafficClones": 416,
+    "trafficViews": 976,
+    "trafficClones": 421,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 103
   },
@@ -148,7 +148,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 194,
+    "trafficViews": 198,
     "trafficClones": 47,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 33
@@ -159,10 +159,10 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 22,
+    "trafficViews": 19,
     "trafficClones": 4,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 4
   },
   {
     "name": "vscode-git-kafka",
@@ -170,9 +170,9 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 39,
-    "trafficClones": 3,
+    "trafficViews": 36,
+    "trafficClones": 2,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   }
 ]
