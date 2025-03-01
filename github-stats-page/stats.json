@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 220,
-    "trafficClones": 51,
+    "trafficViews": 197,
+    "trafficClones": 43,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 33
+    "trafficUniqueClones": 31
   },
   {
     "name": "acacia-lex",
@@ -27,9 +27,9 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 1,
+    "trafficViews": 0,
     "trafficClones": 2,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 0,
     "trafficUniqueClones": 2
   },
   {
@@ -126,10 +126,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 93,
-    "trafficClones": 17,
+    "trafficViews": 59,
+    "trafficClones": 8,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 12
+    "trafficUniqueClones": 7
   },
   {
     "name": "github-stats-page",
@@ -137,8 +137,8 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 1002,
-    "trafficClones": 437,
+    "trafficViews": 1006,
+    "trafficClones": 443,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 105
   },
@@ -148,10 +148,10 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 200,
-    "trafficClones": 46,
+    "trafficViews": 186,
+    "trafficClones": 47,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 32
+    "trafficUniqueClones": 33
   },
   {
     "name": "ts-call-py",
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 19,
+    "trafficViews": 14,
     "trafficClones": 3,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 3
