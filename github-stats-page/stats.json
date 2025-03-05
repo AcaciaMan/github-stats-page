@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 124,
-    "trafficClones": 24,
+    "trafficViews": 102,
+    "trafficClones": 16,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 18
+    "trafficUniqueClones": 12
   },
   {
     "name": "acacia-lex",
@@ -17,9 +17,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-log",
@@ -28,9 +28,9 @@
     "watchers": 3,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 6,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 6
   },
   {
     "name": "acacia-parse",
@@ -39,9 +39,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 4
   },
   {
     "name": "acacia-regex",
@@ -60,10 +60,10 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 5,
-    "trafficClones": 3,
-    "trafficUniqueViews": 1,
-    "trafficUniqueClones": 3
+    "trafficViews": 0,
+    "trafficClones": 2,
+    "trafficUniqueViews": 0,
+    "trafficUniqueClones": 2
   },
   {
     "name": "ClassTypist",
@@ -72,9 +72,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   },
   {
     "name": "db-autotest",
@@ -94,9 +94,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "dec-tree-py",
@@ -137,10 +137,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 258,
-    "trafficClones": 184,
+    "trafficViews": 239,
+    "trafficClones": 178,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 53
+    "trafficUniqueClones": 52
   },
   {
     "name": "time-decomp",
@@ -148,10 +148,10 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 175,
-    "trafficClones": 34,
+    "trafficViews": 177,
+    "trafficClones": 31,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 27
+    "trafficUniqueClones": 26
   },
   {
     "name": "ts-call-py",
@@ -159,7 +159,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 4,
+    "trafficViews": 2,
     "trafficClones": 4,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 4
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 9,
+    "trafficViews": 6,
     "trafficClones": 4,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 4
