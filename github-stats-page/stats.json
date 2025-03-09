@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 40,
-    "trafficClones": 12,
+    "trafficViews": 29,
+    "trafficClones": 7,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 10
+    "trafficUniqueClones": 6
   },
   {
     "name": "acacia-lex",
@@ -72,9 +72,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   },
   {
     "name": "db-autotest",
@@ -105,9 +105,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "dec-tree-vscode",
@@ -127,9 +127,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 3,
-    "trafficClones": 4,
+    "trafficClones": 5,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 5
   },
   {
     "name": "github-stats-page",
@@ -137,10 +137,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 175,
+    "trafficViews": 162,
     "trafficClones": 158,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 51
+    "trafficUniqueClones": 54
   },
   {
     "name": "time-decomp",
@@ -148,7 +148,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 121,
+    "trafficViews": 115,
     "trafficClones": 14,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 12
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 2,
+    "trafficViews": 1,
     "trafficClones": 4,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 4
