@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 26,
-    "trafficClones": 10,
+    "trafficViews": 25,
+    "trafficClones": 12,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 9
+    "trafficUniqueClones": 10
   },
   {
     "name": "acacia-lex",
@@ -27,7 +27,7 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 19,
+    "trafficViews": 20,
     "trafficClones": 6,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 6
@@ -83,9 +83,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "db-autotest-vscode",
@@ -137,10 +137,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 155,
-    "trafficClones": 146,
+    "trafficViews": 152,
+    "trafficClones": 150,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 52
+    "trafficUniqueClones": 55
   },
   {
     "name": "time-decomp",
@@ -148,7 +148,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 85,
+    "trafficViews": 76,
     "trafficClones": 2,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 2
@@ -159,9 +159,9 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 2,
+    "trafficViews": 0,
     "trafficClones": 4,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 0,
     "trafficUniqueClones": 4
   },
   {
@@ -171,8 +171,8 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 5,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 5
   }
 ]
