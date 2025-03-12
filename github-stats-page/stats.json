@@ -1,5 +1,16 @@
 [
   {
+    "name": "acacia-erd",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 0,
+    "trafficUniqueViews": 0,
+    "trafficUniqueClones": 0
+  },
+  {
     "name": "acacia-forex",
     "stars": 1,
     "forks": 0,
@@ -137,10 +148,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 154,
-    "trafficClones": 142,
+    "trafficViews": 159,
+    "trafficClones": 146,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 51
+    "trafficUniqueClones": 52
   },
   {
     "name": "time-decomp",
@@ -148,7 +159,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 67,
+    "trafficViews": 55,
     "trafficClones": 3,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 3
