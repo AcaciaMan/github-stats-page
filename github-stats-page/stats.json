@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 251,
-    "trafficClones": 155,
+    "trafficViews": 338,
+    "trafficClones": 193,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 75
+    "trafficUniqueClones": 85
   },
   {
     "name": "acacia-forex",
@@ -16,7 +16,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 28,
+    "trafficViews": 21,
     "trafficClones": 13,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 11
@@ -39,9 +39,9 @@
     "watchers": 3,
     "issues": 1,
     "trafficViews": 21,
-    "trafficClones": 9,
+    "trafficClones": 8,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 9
+    "trafficUniqueClones": 8
   },
   {
     "name": "acacia-parse",
@@ -72,9 +72,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 6,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 6
   },
   {
     "name": "ClassTypist",
@@ -137,9 +137,9 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 3,
+    "trafficViews": 0,
     "trafficClones": 3,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 0,
     "trafficUniqueClones": 3
   },
   {
@@ -148,10 +148,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 129,
-    "trafficClones": 147,
+    "trafficViews": 122,
+    "trafficClones": 148,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 57
+    "trafficUniqueClones": 56
   },
   {
     "name": "time-decomp",
@@ -159,7 +159,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 24,
+    "trafficViews": 23,
     "trafficClones": 3,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 3
