@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 195,
-    "trafficClones": 118,
+    "trafficViews": 251,
+    "trafficClones": 155,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 65
+    "trafficUniqueClones": 75
   },
   {
     "name": "acacia-forex",
@@ -16,7 +16,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 29,
+    "trafficViews": 28,
     "trafficClones": 13,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 11
@@ -39,9 +39,9 @@
     "watchers": 3,
     "issues": 1,
     "trafficViews": 21,
-    "trafficClones": 8,
+    "trafficClones": 9,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 8
+    "trafficUniqueClones": 9
   },
   {
     "name": "acacia-parse",
@@ -138,9 +138,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 3,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "github-stats-page",
@@ -148,8 +148,8 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 140,
-    "trafficClones": 151,
+    "trafficViews": 129,
+    "trafficClones": 147,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 57
   },
@@ -159,7 +159,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 30,
+    "trafficViews": 24,
     "trafficClones": 3,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 3
