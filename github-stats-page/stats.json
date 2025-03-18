@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 377,
+    "trafficViews": 402,
     "trafficClones": 210,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 89
@@ -72,9 +72,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 6,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 6
   },
   {
     "name": "ClassTypist",
@@ -93,7 +93,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 1,
+    "trafficViews": 2,
     "trafficClones": 5,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 5
@@ -148,10 +148,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 124,
+    "trafficViews": 125,
     "trafficClones": 152,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 58
+    "trafficUniqueClones": 59
   },
   {
     "name": "time-decomp",
@@ -159,7 +159,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 17,
+    "trafficViews": 15,
     "trafficClones": 3,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 3
