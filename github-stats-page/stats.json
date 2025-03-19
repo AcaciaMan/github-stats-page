@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 414,
+    "trafficViews": 435,
     "trafficClones": 210,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 89
@@ -28,9 +28,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "acacia-log",
@@ -38,10 +38,10 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 24,
-    "trafficClones": 9,
+    "trafficViews": 19,
+    "trafficClones": 6,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 9
+    "trafficUniqueClones": 6
   },
   {
     "name": "acacia-parse",
@@ -50,9 +50,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-regex",
@@ -94,9 +94,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 2,
-    "trafficClones": 5,
+    "trafficClones": 4,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 4
   },
   {
     "name": "db-autotest-vscode",
@@ -116,9 +116,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 4
   },
   {
     "name": "dec-tree-vscode",
@@ -148,10 +148,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 119,
-    "trafficClones": 152,
+    "trafficViews": 117,
+    "trafficClones": 151,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 60
+    "trafficUniqueClones": 59
   },
   {
     "name": "time-decomp",
@@ -159,7 +159,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 16,
+    "trafficViews": 12,
     "trafficClones": 11,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 4
