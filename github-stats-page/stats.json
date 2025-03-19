@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 408,
+    "trafficViews": 414,
     "trafficClones": 210,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 89
@@ -16,7 +16,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 14,
+    "trafficViews": 13,
     "trafficClones": 9,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 8
@@ -28,9 +28,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 4
   },
   {
     "name": "acacia-log",
@@ -38,7 +38,7 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 21,
+    "trafficViews": 24,
     "trafficClones": 9,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 9
@@ -50,9 +50,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "acacia-regex",
@@ -148,8 +148,8 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 126,
-    "trafficClones": 153,
+    "trafficViews": 119,
+    "trafficClones": 152,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 60
   },
@@ -159,7 +159,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 15,
+    "trafficViews": 16,
     "trafficClones": 11,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 4
