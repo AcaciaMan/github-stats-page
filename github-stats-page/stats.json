@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 521,
-    "trafficClones": 230,
+    "trafficViews": 550,
+    "trafficClones": 235,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 95
+    "trafficUniqueClones": 98
   },
   {
     "name": "acacia-forex",
@@ -16,7 +16,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 10,
+    "trafficViews": 9,
     "trafficClones": 9,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 8
@@ -38,7 +38,7 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 11,
+    "trafficViews": 6,
     "trafficClones": 6,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 6
@@ -50,9 +50,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   },
   {
     "name": "acacia-regex",
@@ -61,9 +61,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "canoe",
@@ -71,7 +71,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 6,
+    "trafficViews": 8,
     "trafficClones": 6,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 6
@@ -83,9 +83,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   },
   {
     "name": "db-autotest",
@@ -94,9 +94,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 3,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "db-autotest-vscode",
@@ -116,9 +116,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "dec-tree-vscode",
@@ -138,9 +138,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "github-stats-page",
@@ -148,10 +148,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 113,
-    "trafficClones": 163,
+    "trafficViews": 105,
+    "trafficClones": 162,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 60
+    "trafficUniqueClones": 62
   },
   {
     "name": "time-decomp",
@@ -159,7 +159,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 9,
+    "trafficViews": 8,
     "trafficClones": 13,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 6
