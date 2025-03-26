@@ -5,8 +5,8 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 748,
-    "trafficClones": 280,
+    "trafficViews": 781,
+    "trafficClones": 285,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 112
   },
@@ -17,9 +17,9 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 2,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-lex",
@@ -71,7 +71,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 13,
+    "trafficViews": 14,
     "trafficClones": 5,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 5
@@ -148,10 +148,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 111,
-    "trafficClones": 163,
+    "trafficViews": 115,
+    "trafficClones": 166,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 61
+    "trafficUniqueClones": 62
   },
   {
     "name": "time-decomp",
