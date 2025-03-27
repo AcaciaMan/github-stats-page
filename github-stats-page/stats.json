@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 799,
-    "trafficClones": 293,
+    "trafficViews": 824,
+    "trafficClones": 258,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 112
+    "trafficUniqueClones": 104
   },
   {
     "name": "acacia-forex",
@@ -16,9 +16,9 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 2,
+    "trafficViews": 0,
     "trafficClones": 2,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 0,
     "trafficUniqueClones": 2
   },
   {
@@ -28,9 +28,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   },
   {
     "name": "acacia-log",
@@ -94,9 +94,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 10,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "db-autotest-vscode",
@@ -105,9 +105,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "dec-tree-py",
@@ -127,9 +127,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "EnvironmentalTrends",
@@ -138,9 +138,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   },
   {
     "name": "github-stats-page",
@@ -148,10 +148,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 116,
-    "trafficClones": 170,
+    "trafficViews": 110,
+    "trafficClones": 159,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 63
+    "trafficUniqueClones": 58
   },
   {
     "name": "time-decomp",
@@ -159,10 +159,10 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 6,
-    "trafficClones": 12,
+    "trafficViews": 4,
+    "trafficClones": 11,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 4
   },
   {
     "name": "ts-call-py",
