@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 837,
-    "trafficClones": 254,
+    "trafficViews": 802,
+    "trafficClones": 232,
     "trafficUniqueViews": 3,
-    "trafficUniqueClones": 108
+    "trafficUniqueClones": 102
   },
   {
     "name": "acacia-forex",
@@ -28,9 +28,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-log",
@@ -50,9 +50,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 0,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 0
   },
   {
     "name": "acacia-regex",
@@ -61,9 +61,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   },
   {
     "name": "canoe",
@@ -72,9 +72,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 15,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "ClassTypist",
@@ -93,10 +93,10 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 11,
-    "trafficClones": 3,
+    "trafficViews": 10,
+    "trafficClones": 2,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "db-autotest-vscode",
@@ -148,10 +148,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 110,
-    "trafficClones": 156,
+    "trafficViews": 99,
+    "trafficClones": 151,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 58
+    "trafficUniqueClones": 57
   },
   {
     "name": "time-decomp",
@@ -160,9 +160,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 4,
-    "trafficClones": 11,
+    "trafficClones": 10,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "ts-call-py",
@@ -171,9 +171,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   },
   {
     "name": "vscode-git-kafka",
@@ -182,8 +182,8 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   }
 ]
