@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 835,
+    "trafficViews": 837,
     "trafficClones": 254,
     "trafficUniqueViews": 3,
     "trafficUniqueClones": 108
@@ -61,9 +61,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "canoe",
@@ -116,9 +116,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "dec-tree-vscode",
@@ -148,10 +148,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 107,
-    "trafficClones": 157,
+    "trafficViews": 110,
+    "trafficClones": 156,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 57
+    "trafficUniqueClones": 58
   },
   {
     "name": "time-decomp",
@@ -182,8 +182,8 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   }
 ]
