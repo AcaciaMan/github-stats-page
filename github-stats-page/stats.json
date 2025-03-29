@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 802,
-    "trafficClones": 232,
+    "trafficViews": 784,
+    "trafficClones": 218,
     "trafficUniqueViews": 3,
-    "trafficUniqueClones": 102
+    "trafficUniqueClones": 101
   },
   {
     "name": "acacia-forex",
@@ -93,7 +93,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 10,
+    "trafficViews": 11,
     "trafficClones": 2,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 2
@@ -127,9 +127,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 0,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 0
   },
   {
     "name": "EnvironmentalTrends",
@@ -148,10 +148,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 99,
-    "trafficClones": 151,
+    "trafficViews": 103,
+    "trafficClones": 149,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 57
+    "trafficUniqueClones": 55
   },
   {
     "name": "time-decomp",
