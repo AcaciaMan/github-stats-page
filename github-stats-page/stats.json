@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 660,
+    "trafficViews": 642,
     "trafficClones": 153,
     "trafficUniqueViews": 3,
     "trafficUniqueClones": 85
@@ -38,9 +38,9 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 3,
+    "trafficViews": 0,
     "trafficClones": 4,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 0,
     "trafficUniqueClones": 4
   },
   {
@@ -93,7 +93,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 11,
+    "trafficViews": 10,
     "trafficClones": 3,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 3
@@ -148,10 +148,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 84,
-    "trafficClones": 143,
+    "trafficViews": 79,
+    "trafficClones": 139,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 56
+    "trafficUniqueClones": 55
   },
   {
     "name": "time-decomp",
@@ -159,10 +159,10 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 4,
-    "trafficClones": 11,
+    "trafficViews": 1,
+    "trafficClones": 3,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "ts-call-py",
@@ -171,9 +171,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "vscode-git-kafka",
