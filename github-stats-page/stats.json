@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 623,
-    "trafficClones": 194,
+    "trafficViews": 605,
+    "trafficClones": 190,
     "trafficUniqueViews": 3,
-    "trafficUniqueClones": 80
+    "trafficUniqueClones": 78
   },
   {
     "name": "acacia-forex",
@@ -71,7 +71,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 15,
+    "trafficViews": 13,
     "trafficClones": 1,
     "trafficUniqueViews": 3,
     "trafficUniqueClones": 1
@@ -83,9 +83,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "db-autotest",
@@ -149,9 +149,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 52,
-    "trafficClones": 115,
+    "trafficClones": 109,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 49
+    "trafficUniqueClones": 46
   },
   {
     "name": "time-decomp",
