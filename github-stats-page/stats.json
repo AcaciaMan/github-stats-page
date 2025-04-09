@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 495,
-    "trafficClones": 162,
+    "trafficViews": 428,
+    "trafficClones": 143,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 67
+    "trafficUniqueClones": 60
   },
   {
     "name": "acacia-forex",
@@ -39,9 +39,9 @@
     "watchers": 3,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-parse",
@@ -71,7 +71,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 9,
+    "trafficViews": 6,
     "trafficClones": 2,
     "trafficUniqueViews": 3,
     "trafficUniqueClones": 2
@@ -105,9 +105,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 4
   },
   {
     "name": "dec-tree-py",
@@ -148,10 +148,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 34,
-    "trafficClones": 99,
+    "trafficViews": 22,
+    "trafficClones": 93,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 43
+    "trafficUniqueClones": 41
   },
   {
     "name": "time-decomp",
@@ -182,8 +182,8 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   }
 ]
