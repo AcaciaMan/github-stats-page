@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 328,
-    "trafficClones": 105,
+    "trafficViews": 271,
+    "trafficClones": 86,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 42
+    "trafficUniqueClones": 32
   },
   {
     "name": "acacia-forex",
@@ -17,9 +17,9 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-lex",
@@ -28,9 +28,20 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 6,
-    "trafficClones": 1,
+    "trafficClones": 0,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 0
+  },
+  {
+    "name": "acacia-lexer",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 0,
+    "trafficUniqueViews": 0,
+    "trafficUniqueClones": 0
   },
   {
     "name": "acacia-log",
@@ -39,9 +50,9 @@
     "watchers": 3,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-parse",
@@ -50,9 +61,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 3
   },
   {
     "name": "acacia-regex",
@@ -61,9 +72,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 6,
-    "trafficClones": 1,
+    "trafficClones": 4,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 4
   },
   {
     "name": "canoe",
@@ -83,9 +94,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 5,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 5
   },
   {
     "name": "db-autotest",
@@ -93,10 +104,10 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 1,
-    "trafficClones": 1,
-    "trafficUniqueViews": 1,
-    "trafficUniqueClones": 1
+    "trafficViews": 0,
+    "trafficClones": 2,
+    "trafficUniqueViews": 0,
+    "trafficUniqueClones": 2
   },
   {
     "name": "db-autotest-vscode",
@@ -105,9 +116,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 5,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 5
   },
   {
     "name": "dec-tree-py",
@@ -127,9 +138,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 8,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 8
   },
   {
     "name": "EnvironmentalTrends",
@@ -138,9 +149,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 5,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 5
   },
   {
     "name": "github-stats-page",
@@ -148,10 +159,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 11,
-    "trafficClones": 84,
+    "trafficViews": 7,
+    "trafficClones": 82,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 42
+    "trafficUniqueClones": 43
   },
   {
     "name": "time-decomp",
@@ -160,9 +171,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 7,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 7
   },
   {
     "name": "ts-call-py",
@@ -171,9 +182,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   },
   {
     "name": "vscode-git-kafka",
@@ -182,8 +193,8 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 6,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 6
   }
 ]
