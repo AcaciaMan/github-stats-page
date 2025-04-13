@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 271,
-    "trafficClones": 86,
+    "trafficViews": 261,
+    "trafficClones": 82,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 32
+    "trafficUniqueClones": 30
   },
   {
     "name": "acacia-forex",
@@ -38,10 +38,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 0,
-    "trafficClones": 0,
-    "trafficUniqueViews": 0,
-    "trafficUniqueClones": 0
+    "trafficViews": 33,
+    "trafficClones": 23,
+    "trafficUniqueViews": 1,
+    "trafficUniqueClones": 17
   },
   {
     "name": "acacia-log",
@@ -71,7 +71,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 0,
-    "trafficViews": 6,
+    "trafficViews": 7,
     "trafficClones": 4,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 4
@@ -104,9 +104,9 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 0,
+    "trafficViews": 2,
     "trafficClones": 2,
-    "trafficUniqueViews": 0,
+    "trafficUniqueViews": 1,
     "trafficUniqueClones": 2
   },
   {
@@ -160,9 +160,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 7,
-    "trafficClones": 82,
+    "trafficClones": 83,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 43
+    "trafficUniqueClones": 44
   },
   {
     "name": "time-decomp",
@@ -171,9 +171,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 7,
+    "trafficClones": 6,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 7
+    "trafficUniqueClones": 6
   },
   {
     "name": "ts-call-py",
