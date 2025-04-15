@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 246,
-    "trafficClones": 78,
+    "trafficViews": 227,
+    "trafficClones": 71,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 27
+    "trafficUniqueClones": 22
   },
   {
     "name": "acacia-forex",
@@ -38,10 +38,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 44,
-    "trafficClones": 23,
+    "trafficViews": 60,
+    "trafficClones": 33,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 17
+    "trafficUniqueClones": 24
   },
   {
     "name": "acacia-log",
@@ -160,9 +160,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 6,
-    "trafficClones": 79,
+    "trafficClones": 77,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 42
+    "trafficUniqueClones": 39
   },
   {
     "name": "time-decomp",
