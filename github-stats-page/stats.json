@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 168,
+    "trafficViews": 154,
     "trafficClones": 12,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 10
@@ -38,10 +38,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 104,
-    "trafficClones": 41,
+    "trafficViews": 129,
+    "trafficClones": 52,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 28
+    "trafficUniqueClones": 34
   },
   {
     "name": "acacia-log",
@@ -138,9 +138,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 7,
+    "trafficClones": 6,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 7
+    "trafficUniqueClones": 6
   },
   {
     "name": "EnvironmentalTrends",
@@ -160,9 +160,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 2,
-    "trafficClones": 74,
+    "trafficClones": 75,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 38
+    "trafficUniqueClones": 39
   },
   {
     "name": "time-decomp",
