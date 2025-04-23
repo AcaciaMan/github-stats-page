@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 83,
+    "trafficViews": 77,
     "trafficClones": 7,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 6
@@ -38,7 +38,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 1,
-    "trafficViews": 215,
+    "trafficViews": 228,
     "trafficClones": 67,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 44
@@ -83,9 +83,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 1,
-    "trafficClones": 2,
+    "trafficClones": 3,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   },
   {
     "name": "ClassTypist",
@@ -105,9 +105,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 2,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "db-autotest-vscode",
@@ -160,9 +160,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 6,
-    "trafficClones": 82,
+    "trafficClones": 80,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 38
+    "trafficUniqueClones": 36
   },
   {
     "name": "time-decomp",
@@ -192,9 +192,9 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 4,
+    "trafficViews": 9,
     "trafficClones": 5,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 2,
     "trafficUniqueClones": 5
   }
 ]
