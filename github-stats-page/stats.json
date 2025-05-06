@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 33,
+    "trafficViews": 29,
     "trafficClones": 0,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 0
@@ -38,10 +38,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 1,
-    "trafficViews": 93,
-    "trafficClones": 5,
+    "trafficViews": 80,
+    "trafficClones": 2,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-log",
@@ -50,9 +50,9 @@
     "watchers": 3,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 4
   },
   {
     "name": "acacia-parse",
@@ -159,10 +159,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 1,
-    "trafficClones": 62,
-    "trafficUniqueViews": 1,
-    "trafficUniqueClones": 32
+    "trafficViews": 0,
+    "trafficClones": 64,
+    "trafficUniqueViews": 0,
+    "trafficUniqueClones": 31
   },
   {
     "name": "time-decomp",
@@ -170,10 +170,10 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 0,
-    "trafficClones": 11,
-    "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficViews": 9,
+    "trafficClones": 10,
+    "trafficUniqueViews": 1,
+    "trafficUniqueClones": 3
   },
   {
     "name": "ts-call-py",
@@ -182,9 +182,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 0,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 0
   },
   {
     "name": "vscode-git-kafka",
@@ -192,7 +192,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 74,
+    "trafficViews": 71,
     "trafficClones": 2,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 2
