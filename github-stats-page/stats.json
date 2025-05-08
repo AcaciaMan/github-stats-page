@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 26,
-    "trafficClones": 0,
+    "trafficViews": 25,
+    "trafficClones": 1,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 0
+    "trafficUniqueClones": 1
   },
   {
     "name": "acacia-forex",
@@ -38,7 +38,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 1,
-    "trafficViews": 72,
+    "trafficViews": 77,
     "trafficClones": 2,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 2
@@ -149,9 +149,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 0,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 0
+    "trafficUniqueClones": 1
   },
   {
     "name": "github-stats-page",
@@ -160,9 +160,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 65,
+    "trafficClones": 68,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 33
+    "trafficUniqueClones": 35
   },
   {
     "name": "time-decomp",
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 14,
+    "trafficViews": 19,
     "trafficClones": 10,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 3
@@ -192,7 +192,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 66,
+    "trafficViews": 57,
     "trafficClones": 2,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 2
