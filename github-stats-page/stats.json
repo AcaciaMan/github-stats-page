@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 14,
+    "trafficViews": 12,
     "trafficClones": 2,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 2
@@ -38,7 +38,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 1,
-    "trafficViews": 79,
+    "trafficViews": 81,
     "trafficClones": 2,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 2
@@ -105,9 +105,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 0,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 0
   },
   {
     "name": "db-autotest-vscode",
@@ -160,9 +160,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 75,
+    "trafficClones": 79,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 38
+    "trafficUniqueClones": 39
   },
   {
     "name": "time-decomp",
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 32,
+    "trafficViews": 38,
     "trafficClones": 10,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 3
@@ -192,7 +192,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 33,
+    "trafficViews": 29,
     "trafficClones": 1,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 1
