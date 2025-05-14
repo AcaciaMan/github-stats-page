@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 11,
+    "trafficViews": 12,
     "trafficClones": 2,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 2
@@ -17,9 +17,9 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   },
   {
     "name": "acacia-lex",
@@ -28,9 +28,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 0,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 0
   },
   {
     "name": "acacia-lexer",
@@ -38,7 +38,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 1,
-    "trafficViews": 79,
+    "trafficViews": 75,
     "trafficClones": 1,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 1
@@ -50,9 +50,9 @@
     "watchers": 3,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 0,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 0
   },
   {
     "name": "acacia-parse",
@@ -61,9 +61,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 0,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 0
   },
   {
     "name": "acacia-regex",
@@ -149,9 +149,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   },
   {
     "name": "github-stats-page",
@@ -160,9 +160,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 80,
+    "trafficClones": 78,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 39
+    "trafficUniqueClones": 38
   },
   {
     "name": "time-decomp",
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 42,
+    "trafficViews": 44,
     "trafficClones": 9,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 2
@@ -192,7 +192,7 @@
     "forks": 0,
     "watchers": 1,
     "issues": 1,
-    "trafficViews": 24,
+    "trafficViews": 18,
     "trafficClones": 1,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 1
