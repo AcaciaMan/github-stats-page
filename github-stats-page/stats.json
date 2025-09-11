@@ -61,9 +61,9 @@
     "watchers": 3,
     "issues": 1,
     "trafficViews": 2,
-    "trafficClones": 2,
+    "trafficClones": 3,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   },
   {
     "name": "acacia-parse",
@@ -170,21 +170,21 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 3,
-    "trafficClones": 3,
+    "trafficViews": 41,
+    "trafficClones": 14,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 10
   },
   {
     "name": "ripgrep-notebook",
     "stars": 0,
     "forks": 0,
     "watchers": 0,
-    "issues": 1,
-    "trafficViews": 34,
-    "trafficClones": 19,
-    "trafficUniqueViews": 1,
-    "trafficUniqueClones": 18
+    "issues": 0,
+    "trafficViews": 109,
+    "trafficClones": 27,
+    "trafficUniqueViews": 2,
+    "trafficUniqueClones": 22
   },
   {
     "name": "smart-search",
@@ -192,7 +192,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 33,
+    "trafficViews": 42,
     "trafficClones": 4,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 4
@@ -215,9 +215,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 1,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "vscode-git-kafka",
