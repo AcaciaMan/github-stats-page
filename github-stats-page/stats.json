@@ -28,9 +28,9 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "acacia-lex",
@@ -93,10 +93,10 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 4,
-    "trafficClones": 9,
+    "trafficViews": 24,
+    "trafficClones": 17,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 9
+    "trafficUniqueClones": 17
   },
   {
     "name": "ClassTypist",
@@ -116,9 +116,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 4
   },
   {
     "name": "db-autotest-vscode",
@@ -127,9 +127,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "dec-tree-py",
@@ -171,9 +171,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 40,
-    "trafficClones": 36,
+    "trafficClones": 44,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 20
+    "trafficUniqueClones": 24
   },
   {
     "name": "ripgrep-notebook",
@@ -181,7 +181,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 142,
+    "trafficViews": 155,
     "trafficClones": 32,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 27
@@ -192,7 +192,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 45,
+    "trafficViews": 44,
     "trafficClones": 5,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 5
@@ -215,9 +215,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 1,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "vscode-git-kafka",
