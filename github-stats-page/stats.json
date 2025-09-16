@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 21,
-    "trafficClones": 6,
-    "trafficUniqueViews": 1,
-    "trafficUniqueClones": 5
+    "trafficViews": 24,
+    "trafficClones": 5,
+    "trafficUniqueViews": 2,
+    "trafficUniqueClones": 4
   },
   {
     "name": "acacia-erd",
@@ -16,10 +16,10 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 15,
-    "trafficClones": 5,
+    "trafficViews": 26,
+    "trafficClones": 6,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 6
   },
   {
     "name": "acacia-forex",
@@ -39,9 +39,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 4
   },
   {
     "name": "acacia-lexer",
@@ -50,9 +50,9 @@
     "watchers": 0,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-log",
@@ -72,9 +72,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-regex",
@@ -93,10 +93,10 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 24,
-    "trafficClones": 17,
+    "trafficViews": 47,
+    "trafficClones": 31,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 17
+    "trafficUniqueClones": 29
   },
   {
     "name": "ClassTypist",
@@ -138,9 +138,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "dec-tree-vscode",
@@ -149,9 +149,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "EnvironmentalTrends",
@@ -171,9 +171,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 40,
-    "trafficClones": 44,
+    "trafficClones": 49,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 24
+    "trafficUniqueClones": 27
   },
   {
     "name": "ripgrep-notebook",
@@ -181,7 +181,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 155,
+    "trafficViews": 164,
     "trafficClones": 32,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 27
@@ -192,10 +192,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 44,
-    "trafficClones": 5,
+    "trafficViews": 47,
+    "trafficClones": 3,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 3
   },
   {
     "name": "time-decomp",
@@ -204,9 +204,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 3,
-    "trafficClones": 7,
+    "trafficClones": 6,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "ts-call-py",
@@ -226,8 +226,8 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   }
 ]
