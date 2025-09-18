@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 24,
+    "trafficViews": 23,
     "trafficClones": 5,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 4
@@ -16,7 +16,7 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 28,
+    "trafficViews": 37,
     "trafficClones": 6,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 6
@@ -39,9 +39,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "acacia-lexer",
@@ -61,9 +61,9 @@
     "watchers": 3,
     "issues": 1,
     "trafficViews": 2,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "acacia-parse",
@@ -83,9 +83,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 3
   },
   {
     "name": "ClassTypist",
@@ -116,9 +116,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 4
   },
   {
     "name": "dec-tree-py",
@@ -160,9 +160,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 41,
-    "trafficClones": 56,
+    "trafficClones": 63,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 30
+    "trafficUniqueClones": 34
   },
   {
     "name": "ripgrep-notebook",
@@ -181,7 +181,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 47,
+    "trafficViews": 44,
     "trafficClones": 3,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 3
@@ -193,9 +193,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 3,
-    "trafficClones": 6,
+    "trafficClones": 7,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 4
   },
   {
     "name": "ts-call-py",
@@ -204,9 +204,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 1,
-    "trafficClones": 2,
+    "trafficClones": 3,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   },
   {
     "name": "vscode-git-kafka",
