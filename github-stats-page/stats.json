@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 23,
+    "trafficViews": 19,
     "trafficClones": 5,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 4
@@ -16,7 +16,7 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 37,
+    "trafficViews": 40,
     "trafficClones": 6,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 6
@@ -39,9 +39,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 4
   },
   {
     "name": "acacia-lexer",
@@ -83,9 +83,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 4
   },
   {
     "name": "ClassTypist",
@@ -94,9 +94,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 4
   },
   {
     "name": "db-autotest",
@@ -105,9 +105,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 5,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 5
   },
   {
     "name": "db-autotest-vscode",
@@ -116,9 +116,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 5,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 5
   },
   {
     "name": "dec-tree-py",
@@ -127,9 +127,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 4
   },
   {
     "name": "dec-tree-vscode",
@@ -159,10 +159,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 41,
-    "trafficClones": 63,
+    "trafficViews": 44,
+    "trafficClones": 69,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 34
+    "trafficUniqueClones": 37
   },
   {
     "name": "ripgrep-notebook",
@@ -170,7 +170,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 173,
+    "trafficViews": 176,
     "trafficClones": 33,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 28
@@ -192,10 +192,10 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 3,
-    "trafficClones": 7,
+    "trafficViews": 1,
+    "trafficClones": 8,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 5
   },
   {
     "name": "ts-call-py",
@@ -204,9 +204,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 1,
-    "trafficClones": 3,
+    "trafficClones": 5,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 5
   },
   {
     "name": "vscode-git-kafka",
@@ -215,8 +215,8 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   }
 ]
