@@ -72,9 +72,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   },
   {
     "name": "acacia-regex",
@@ -159,10 +159,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 59,
-    "trafficClones": 73,
+    "trafficViews": 68,
+    "trafficClones": 80,
     "trafficUniqueViews": 3,
-    "trafficUniqueClones": 37
+    "trafficUniqueClones": 41
   },
   {
     "name": "ripgrep-notebook",
@@ -181,7 +181,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 61,
+    "trafficViews": 64,
     "trafficClones": 13,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 13
