@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 5,
+    "trafficViews": 4,
     "trafficClones": 3,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 2
@@ -16,7 +16,7 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 39,
+    "trafficViews": 40,
     "trafficClones": 7,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 7
@@ -39,9 +39,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   },
   {
     "name": "acacia-lexer",
@@ -83,9 +83,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   },
   {
     "name": "ClassTypist",
@@ -143,6 +143,17 @@
     "trafficUniqueClones": 1
   },
   {
+    "name": "ecanoe",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "issues": 0,
+    "trafficViews": 41,
+    "trafficClones": 14,
+    "trafficUniqueViews": 1,
+    "trafficUniqueClones": 13
+  },
+  {
     "name": "EnvironmentalTrends",
     "stars": 0,
     "forks": 0,
@@ -162,7 +173,7 @@
     "trafficViews": 32,
     "trafficClones": 84,
     "trafficUniqueViews": 3,
-    "trafficUniqueClones": 42
+    "trafficUniqueClones": 41
   },
   {
     "name": "ripgrep-notebook",
@@ -170,10 +181,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 54,
-    "trafficClones": 11,
+    "trafficViews": 41,
+    "trafficClones": 9,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 9
+    "trafficUniqueClones": 7
   },
   {
     "name": "smart-search",
@@ -181,7 +192,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 151,
+    "trafficViews": 164,
     "trafficClones": 28,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 27
@@ -192,7 +203,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 7,
+    "trafficViews": 8,
     "trafficClones": 3,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 3
