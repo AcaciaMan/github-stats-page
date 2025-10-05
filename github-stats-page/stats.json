@@ -94,9 +94,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   },
   {
     "name": "db-autotest",
@@ -105,9 +105,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "db-autotest-vscode",
@@ -138,9 +138,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   },
   {
     "name": "ecanoe",
@@ -148,10 +148,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 85,
-    "trafficClones": 22,
+    "trafficViews": 87,
+    "trafficClones": 23,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 20
+    "trafficUniqueClones": 21
   },
   {
     "name": "EnvironmentalTrends",
@@ -171,9 +171,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 3,
-    "trafficClones": 87,
+    "trafficClones": 86,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 41
+    "trafficUniqueClones": 38
   },
   {
     "name": "ripgrep-notebook",
@@ -182,9 +182,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 7,
+    "trafficClones": 8,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 6
   },
   {
     "name": "smart-search",
@@ -192,10 +192,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 240,
-    "trafficClones": 39,
-    "trafficUniqueViews": 3,
-    "trafficUniqueClones": 36
+    "trafficViews": 244,
+    "trafficClones": 37,
+    "trafficUniqueViews": 4,
+    "trafficUniqueClones": 34
   },
   {
     "name": "time-decomp",
@@ -203,7 +203,7 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 11,
+    "trafficViews": 9,
     "trafficClones": 4,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 4
