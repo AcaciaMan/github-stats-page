@@ -16,10 +16,10 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 13,
-    "trafficClones": 8,
+    "trafficViews": 28,
+    "trafficClones": 18,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 8
+    "trafficUniqueClones": 16
   },
   {
     "name": "acacia-forex",
@@ -60,10 +60,10 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 24,
-    "trafficClones": 11,
+    "trafficViews": 45,
+    "trafficClones": 14,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 10
+    "trafficUniqueClones": 12
   },
   {
     "name": "acacia-parse",
@@ -149,9 +149,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 89,
-    "trafficClones": 23,
+    "trafficClones": 24,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 21
+    "trafficUniqueClones": 22
   },
   {
     "name": "EnvironmentalTrends",
@@ -170,8 +170,8 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 1,
-    "trafficClones": 88,
+    "trafficViews": 2,
+    "trafficClones": 90,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 40
   },
@@ -192,7 +192,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 227,
+    "trafficViews": 224,
     "trafficClones": 34,
     "trafficUniqueViews": 4,
     "trafficUniqueClones": 31
