@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 9,
-    "trafficClones": 4,
+    "trafficViews": 15,
+    "trafficClones": 5,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 5
   },
   {
     "name": "acacia-erd",
@@ -16,10 +16,10 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 50,
-    "trafficClones": 21,
+    "trafficViews": 65,
+    "trafficClones": 24,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 19
+    "trafficUniqueClones": 20
   },
   {
     "name": "acacia-forex",
@@ -39,9 +39,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 4
   },
   {
     "name": "acacia-lexer",
@@ -50,9 +50,9 @@
     "watchers": 0,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   },
   {
     "name": "acacia-log",
@@ -60,10 +60,10 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 62,
-    "trafficClones": 16,
-    "trafficUniqueViews": 1,
-    "trafficUniqueClones": 14
+    "trafficViews": 80,
+    "trafficClones": 23,
+    "trafficUniqueViews": 2,
+    "trafficUniqueClones": 20
   },
   {
     "name": "acacia-parse",
@@ -116,9 +116,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 5,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 5
   },
   {
     "name": "dec-tree-py",
@@ -171,9 +171,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 2,
-    "trafficClones": 90,
+    "trafficClones": 93,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 41
+    "trafficUniqueClones": 44
   },
   {
     "name": "ripgrep-notebook",
@@ -192,10 +192,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 221,
-    "trafficClones": 28,
+    "trafficViews": 203,
+    "trafficClones": 25,
     "trafficUniqueViews": 4,
-    "trafficUniqueClones": 26
+    "trafficUniqueClones": 23
   },
   {
     "name": "time-decomp",
@@ -203,9 +203,9 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 7,
+    "trafficViews": 6,
     "trafficClones": 4,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 2,
     "trafficUniqueClones": 4
   },
   {
