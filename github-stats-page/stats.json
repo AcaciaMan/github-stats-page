@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 85,
-    "trafficClones": 37,
+    "trafficViews": 97,
+    "trafficClones": 42,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 33
+    "trafficUniqueClones": 36
   },
   {
     "name": "acacia-erd",
@@ -16,10 +16,10 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 157,
-    "trafficClones": 37,
+    "trafficViews": 155,
+    "trafficClones": 21,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 29
+    "trafficUniqueClones": 16
   },
   {
     "name": "acacia-forex",
@@ -60,10 +60,10 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 134,
-    "trafficClones": 34,
+    "trafficViews": 108,
+    "trafficClones": 31,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 30
+    "trafficUniqueClones": 20
   },
   {
     "name": "acacia-parse",
@@ -72,9 +72,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-regex",
@@ -93,7 +93,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 9,
+    "trafficViews": 13,
     "trafficClones": 19,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 16
@@ -127,9 +127,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 4
   },
   {
     "name": "dec-tree-py",
@@ -138,9 +138,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "dec-tree-vscode",
@@ -159,9 +159,9 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 2,
+    "trafficViews": 0,
     "trafficClones": 1,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 0,
     "trafficUniqueClones": 1
   },
   {
@@ -181,10 +181,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 1,
-    "trafficClones": 96,
-    "trafficUniqueViews": 1,
-    "trafficUniqueClones": 45
+    "trafficViews": 0,
+    "trafficClones": 100,
+    "trafficUniqueViews": 0,
+    "trafficUniqueClones": 47
   },
   {
     "name": "ripgrep-notebook",
@@ -203,8 +203,8 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 119,
-    "trafficClones": 17,
+    "trafficViews": 109,
+    "trafficClones": 16,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 11
   },
@@ -226,7 +226,7 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
     "trafficUniqueClones": 2
   },
