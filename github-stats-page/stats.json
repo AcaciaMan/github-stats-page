@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 97,
-    "trafficClones": 42,
+    "trafficViews": 121,
+    "trafficClones": 52,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 36
+    "trafficUniqueClones": 42
   },
   {
     "name": "acacia-erd",
@@ -16,8 +16,8 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 155,
-    "trafficClones": 21,
+    "trafficViews": 157,
+    "trafficClones": 20,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 16
   },
@@ -60,10 +60,10 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 108,
-    "trafficClones": 31,
+    "trafficViews": 102,
+    "trafficClones": 27,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 20
+    "trafficUniqueClones": 17
   },
   {
     "name": "acacia-parse",
@@ -93,7 +93,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 13,
+    "trafficViews": 21,
     "trafficClones": 19,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 16
@@ -160,9 +160,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 0,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 0
   },
   {
     "name": "EnvironmentalTrends",
@@ -171,9 +171,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 0,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 0
+    "trafficUniqueClones": 1
   },
   {
     "name": "github-stats-page",
@@ -182,9 +182,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 100,
+    "trafficClones": 103,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 47
+    "trafficUniqueClones": 48
   },
   {
     "name": "ripgrep-notebook",
@@ -193,9 +193,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "smart-search",
@@ -203,10 +203,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 109,
-    "trafficClones": 16,
+    "trafficViews": 111,
+    "trafficClones": 20,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 11
+    "trafficUniqueClones": 13
   },
   {
     "name": "time-decomp",
