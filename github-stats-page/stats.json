@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 121,
+    "trafficViews": 124,
     "trafficClones": 52,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 42
@@ -16,10 +16,10 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 157,
-    "trafficClones": 20,
+    "trafficViews": 143,
+    "trafficClones": 18,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 16
+    "trafficUniqueClones": 15
   },
   {
     "name": "acacia-forex",
@@ -28,9 +28,9 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 0,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 0
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-lex",
@@ -39,9 +39,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 7,
+    "trafficClones": 5,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 6
+    "trafficUniqueClones": 4
   },
   {
     "name": "acacia-lexer",
@@ -60,10 +60,10 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 102,
+    "trafficViews": 88,
     "trafficClones": 27,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 17
+    "trafficUniqueClones": 16
   },
   {
     "name": "acacia-parse",
@@ -93,7 +93,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 21,
+    "trafficViews": 26,
     "trafficClones": 19,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 16
@@ -138,9 +138,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   },
   {
     "name": "dec-tree-vscode",
@@ -182,9 +182,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 103,
+    "trafficClones": 102,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 48
+    "trafficUniqueClones": 47
   },
   {
     "name": "ripgrep-notebook",
@@ -193,9 +193,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   },
   {
     "name": "smart-search",
@@ -203,10 +203,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 111,
-    "trafficClones": 20,
+    "trafficViews": 106,
+    "trafficClones": 25,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 13
+    "trafficUniqueClones": 14
   },
   {
     "name": "time-decomp",
