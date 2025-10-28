@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 124,
-    "trafficClones": 47,
+    "trafficViews": 128,
+    "trafficClones": 46,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 39
+    "trafficUniqueClones": 38
   },
   {
     "name": "acacia-erd",
@@ -18,7 +18,7 @@
     "issues": 0,
     "trafficViews": 124,
     "trafficClones": 12,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 2,
     "trafficUniqueClones": 12
   },
   {
@@ -28,9 +28,9 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 5,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 5
   },
   {
     "name": "acacia-lex",
@@ -60,7 +60,7 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 52,
+    "trafficViews": 44,
     "trafficClones": 20,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 9
@@ -72,9 +72,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 5,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 5
   },
   {
     "name": "acacia-regex",
@@ -149,9 +149,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 1,
-    "trafficClones": 2,
+    "trafficClones": 3,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   },
   {
     "name": "ecanoe",
@@ -160,9 +160,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 7,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 5
   },
   {
     "name": "EnvironmentalTrends",
@@ -182,7 +182,7 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 1,
-    "trafficClones": 120,
+    "trafficClones": 119,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 56
   },
@@ -203,10 +203,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 91,
-    "trafficClones": 32,
+    "trafficViews": 90,
+    "trafficClones": 33,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 17
+    "trafficUniqueClones": 18
   },
   {
     "name": "time-decomp",
@@ -226,9 +226,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 6,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   },
   {
     "name": "vscode-git-kafka",
@@ -237,8 +237,8 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   }
 ]
