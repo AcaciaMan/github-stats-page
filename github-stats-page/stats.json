@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 115,
-    "trafficClones": 39,
+    "trafficViews": 99,
+    "trafficClones": 25,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 34
+    "trafficUniqueClones": 21
   },
   {
     "name": "acacia-erd",
@@ -16,10 +16,10 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 81,
-    "trafficClones": 5,
+    "trafficViews": 74,
+    "trafficClones": 7,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 5
   },
   {
     "name": "acacia-forex",
@@ -50,9 +50,9 @@
     "watchers": 0,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 0,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 0
+    "trafficUniqueClones": 1
   },
   {
     "name": "acacia-log",
@@ -60,10 +60,10 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 25,
-    "trafficClones": 16,
+    "trafficViews": 20,
+    "trafficClones": 15,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 7
+    "trafficUniqueClones": 6
   },
   {
     "name": "acacia-parse",
@@ -72,7 +72,7 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 5,
     "trafficUniqueViews": 0,
     "trafficUniqueClones": 4
   },
@@ -85,7 +85,7 @@
     "trafficViews": 1,
     "trafficClones": 5,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 4
   },
   {
     "name": "acaciaman.github.io",
@@ -93,10 +93,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 27,
-    "trafficClones": 23,
+    "trafficViews": 18,
+    "trafficClones": 6,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 20
+    "trafficUniqueClones": 6
   },
   {
     "name": "ClassTypist",
@@ -105,7 +105,7 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 6,
     "trafficUniqueViews": 0,
     "trafficUniqueClones": 5
   },
@@ -116,7 +116,7 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 6,
     "trafficUniqueViews": 0,
     "trafficUniqueClones": 5
   },
@@ -127,7 +127,7 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
     "trafficUniqueClones": 3
   },
@@ -182,9 +182,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 1,
-    "trafficClones": 114,
+    "trafficClones": 112,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 54
+    "trafficUniqueClones": 53
   },
   {
     "name": "ripgrep-notebook",
@@ -193,9 +193,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 6,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 6
   },
   {
     "name": "smart-search",
@@ -203,10 +203,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 81,
-    "trafficClones": 26,
+    "trafficViews": 78,
+    "trafficClones": 24,
     "trafficUniqueViews": 3,
-    "trafficUniqueClones": 13
+    "trafficUniqueClones": 12
   },
   {
     "name": "time-decomp",
@@ -215,9 +215,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 5,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 5
   },
   {
     "name": "ts-call-py",
@@ -226,7 +226,7 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
     "trafficUniqueClones": 2
   },
