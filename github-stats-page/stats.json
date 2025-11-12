@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 34,
-    "trafficClones": 33,
+    "trafficViews": 33,
+    "trafficClones": 40,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 13
+    "trafficUniqueClones": 16
   },
   {
     "name": "acacia-erd",
@@ -16,7 +16,7 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 33,
+    "trafficViews": 32,
     "trafficClones": 17,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 8
@@ -61,9 +61,9 @@
     "watchers": 3,
     "issues": 1,
     "trafficViews": 3,
-    "trafficClones": 19,
+    "trafficClones": 18,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 13
+    "trafficUniqueClones": 12
   },
   {
     "name": "acacia-parse",
@@ -72,9 +72,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   },
   {
     "name": "acacia-regex",
@@ -82,9 +82,9 @@
     "forks": 0,
     "watchers": 1,
     "issues": 0,
-    "trafficViews": 1,
+    "trafficViews": 0,
     "trafficClones": 4,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 0,
     "trafficUniqueClones": 4
   },
   {
@@ -94,9 +94,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 2,
-    "trafficClones": 11,
+    "trafficClones": 10,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 8
+    "trafficUniqueClones": 7
   },
   {
     "name": "ClassTypist",
@@ -105,9 +105,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "db-autotest",
@@ -127,9 +127,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "dec-tree-py",
@@ -138,9 +138,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 0,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 0
   },
   {
     "name": "dec-tree-vscode",
@@ -149,9 +149,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 0,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 0
   },
   {
     "name": "ecanoe",
@@ -159,10 +159,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 0,
-    "trafficClones": 5,
-    "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficViews": 1,
+    "trafficClones": 4,
+    "trafficUniqueViews": 1,
+    "trafficUniqueClones": 3
   },
   {
     "name": "EnvironmentalTrends",
@@ -171,9 +171,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 0,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 0
+    "trafficUniqueClones": 1
   },
   {
     "name": "github-stats-page",
@@ -182,7 +182,7 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 104,
+    "trafficClones": 105,
     "trafficUniqueViews": 0,
     "trafficUniqueClones": 48
   },
@@ -193,9 +193,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 4
   },
   {
     "name": "smart-search",
@@ -203,10 +203,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 37,
-    "trafficClones": 6,
+    "trafficViews": 36,
+    "trafficClones": 5,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 4
   },
   {
     "name": "time-decomp",
@@ -237,8 +237,8 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 3
   }
 ]
