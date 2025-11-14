@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 31,
-    "trafficClones": 39,
+    "trafficViews": 30,
+    "trafficClones": 40,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 15
+    "trafficUniqueClones": 16
   },
   {
     "name": "acacia-erd",
@@ -16,10 +16,10 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 30,
-    "trafficClones": 20,
+    "trafficViews": 29,
+    "trafficClones": 18,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 11
+    "trafficUniqueClones": 10
   },
   {
     "name": "acacia-forex",
@@ -60,7 +60,7 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 3,
+    "trafficViews": 2,
     "trafficClones": 20,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 14
@@ -94,34 +94,12 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 2,
-    "trafficClones": 9,
+    "trafficClones": 11,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 6
+    "trafficUniqueClones": 7
   },
   {
     "name": "ClassTypist",
-    "stars": 2,
-    "forks": 0,
-    "watchers": 2,
-    "issues": 0,
-    "trafficViews": 0,
-    "trafficClones": 3,
-    "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
-  },
-  {
-    "name": "db-autotest",
-    "stars": 2,
-    "forks": 0,
-    "watchers": 2,
-    "issues": 0,
-    "trafficViews": 0,
-    "trafficClones": 3,
-    "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
-  },
-  {
-    "name": "db-autotest-vscode",
     "stars": 2,
     "forks": 0,
     "watchers": 2,
@@ -132,15 +110,37 @@
     "trafficUniqueClones": 2
   },
   {
+    "name": "db-autotest",
+    "stars": 2,
+    "forks": 0,
+    "watchers": 2,
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 4,
+    "trafficUniqueViews": 0,
+    "trafficUniqueClones": 3
+  },
+  {
+    "name": "db-autotest-vscode",
+    "stars": 2,
+    "forks": 0,
+    "watchers": 2,
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 3,
+    "trafficUniqueViews": 0,
+    "trafficUniqueClones": 3
+  },
+  {
     "name": "dec-tree-py",
     "stars": 1,
     "forks": 0,
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 0,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 0
+    "trafficUniqueClones": 2
   },
   {
     "name": "dec-tree-vscode",
@@ -149,9 +149,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 0,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 0
+    "trafficUniqueClones": 1
   },
   {
     "name": "ecanoe",
@@ -171,9 +171,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "github-stats-page",
@@ -182,9 +182,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 101,
+    "trafficClones": 107,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 45
+    "trafficUniqueClones": 49
   },
   {
     "name": "ripgrep-notebook",
@@ -203,10 +203,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 34,
-    "trafficClones": 6,
-    "trafficUniqueViews": 2,
-    "trafficUniqueClones": 5
+    "trafficViews": 32,
+    "trafficClones": 4,
+    "trafficUniqueViews": 1,
+    "trafficUniqueClones": 4
   },
   {
     "name": "time-decomp",
@@ -215,9 +215,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 1,
-    "trafficClones": 4,
+    "trafficClones": 5,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 5
   },
   {
     "name": "ts-call-py",
@@ -237,8 +237,8 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 5,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 5
   }
 ]
