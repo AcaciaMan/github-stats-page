@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 32,
-    "trafficClones": 44,
+    "trafficViews": 34,
+    "trafficClones": 40,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 17
+    "trafficUniqueClones": 15
   },
   {
     "name": "acacia-erd",
@@ -16,10 +16,10 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 45,
-    "trafficClones": 21,
+    "trafficViews": 47,
+    "trafficClones": 15,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 13
+    "trafficUniqueClones": 11
   },
   {
     "name": "acacia-forex",
@@ -39,9 +39,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-lexer",
@@ -61,7 +61,7 @@
     "watchers": 3,
     "issues": 1,
     "trafficViews": 1,
-    "trafficClones": 21,
+    "trafficClones": 18,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 15
   },
@@ -160,9 +160,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 1,
-    "trafficClones": 2,
+    "trafficClones": 0,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 0
   },
   {
     "name": "EnvironmentalTrends",
@@ -184,7 +184,7 @@
     "trafficViews": 0,
     "trafficClones": 107,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 49
+    "trafficUniqueClones": 50
   },
   {
     "name": "ripgrep-notebook",
@@ -203,10 +203,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 34,
-    "trafficClones": 3,
+    "trafficViews": 36,
+    "trafficClones": 2,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "time-decomp",
@@ -214,9 +214,9 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 1,
+    "trafficViews": 0,
     "trafficClones": 4,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 0,
     "trafficUniqueClones": 4
   },
   {
