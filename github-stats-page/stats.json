@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 36,
-    "trafficClones": 39,
+    "trafficViews": 37,
+    "trafficClones": 37,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 15
+    "trafficUniqueClones": 14
   },
   {
     "name": "acacia-erd",
@@ -16,7 +16,7 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 49,
+    "trafficViews": 50,
     "trafficClones": 12,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 10
@@ -28,9 +28,9 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 6,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 5
   },
   {
     "name": "acacia-lex",
@@ -61,9 +61,9 @@
     "watchers": 3,
     "issues": 1,
     "trafficViews": 1,
-    "trafficClones": 17,
+    "trafficClones": 11,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 15
+    "trafficUniqueClones": 11
   },
   {
     "name": "acacia-parse",
@@ -83,9 +83,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   },
   {
     "name": "acaciaman.github.io",
@@ -94,9 +94,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 1,
-    "trafficClones": 13,
+    "trafficClones": 10,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 9
+    "trafficUniqueClones": 7
   },
   {
     "name": "ClassTypist",
@@ -149,9 +149,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "ecanoe",
@@ -171,9 +171,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 4
   },
   {
     "name": "github-stats-page",
@@ -182,9 +182,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 104,
+    "trafficClones": 100,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 50
+    "trafficUniqueClones": 49
   },
   {
     "name": "ripgrep-notebook",
@@ -203,7 +203,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 38,
+    "trafficViews": 39,
     "trafficClones": 2,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 2
@@ -215,9 +215,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "ts-call-py",
@@ -225,9 +225,9 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 1,
+    "trafficViews": 0,
     "trafficClones": 2,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 0,
     "trafficUniqueClones": 2
   },
   {
