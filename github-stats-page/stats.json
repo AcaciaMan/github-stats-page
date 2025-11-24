@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 36,
-    "trafficClones": 25,
+    "trafficViews": 35,
+    "trafficClones": 20,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 13
+    "trafficUniqueClones": 11
   },
   {
     "name": "acacia-erd",
@@ -16,10 +16,10 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 49,
-    "trafficClones": 11,
+    "trafficViews": 47,
+    "trafficClones": 10,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 9
+    "trafficUniqueClones": 8
   },
   {
     "name": "acacia-forex",
@@ -61,9 +61,9 @@
     "watchers": 3,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 7,
+    "trafficClones": 8,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 7
+    "trafficUniqueClones": 8
   },
   {
     "name": "acacia-parse",
@@ -182,9 +182,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 95,
+    "trafficClones": 99,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 47
+    "trafficUniqueClones": 51
   },
   {
     "name": "ripgrep-notebook",
@@ -203,10 +203,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 38,
-    "trafficClones": 1,
+    "trafficViews": 36,
+    "trafficClones": 2,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "time-decomp",
@@ -215,9 +215,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "ts-call-py",
@@ -226,9 +226,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 1,
-    "trafficClones": 2,
+    "trafficClones": 1,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   },
   {
     "name": "vscode-git-kafka",
