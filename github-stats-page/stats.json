@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 35,
-    "trafficClones": 20,
+    "trafficViews": 33,
+    "trafficClones": 16,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 11
+    "trafficUniqueClones": 9
   },
   {
     "name": "acacia-erd",
@@ -16,7 +16,7 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 47,
+    "trafficViews": 45,
     "trafficClones": 10,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 8
@@ -50,9 +50,9 @@
     "watchers": 0,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 4
   },
   {
     "name": "acacia-log",
@@ -94,9 +94,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 8,
+    "trafficClones": 5,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 6
+    "trafficUniqueClones": 4
   },
   {
     "name": "ClassTypist",
@@ -116,9 +116,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 1,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "db-autotest-vscode",
@@ -182,9 +182,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 99,
+    "trafficClones": 97,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 51
+    "trafficUniqueClones": 49
   },
   {
     "name": "ripgrep-notebook",
@@ -203,7 +203,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 36,
+    "trafficViews": 32,
     "trafficClones": 2,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 2
@@ -215,9 +215,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   },
   {
     "name": "ts-call-py",
@@ -237,8 +237,8 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 5,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 3
   }
 ]
