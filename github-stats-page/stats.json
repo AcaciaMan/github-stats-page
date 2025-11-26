@@ -6,9 +6,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 33,
-    "trafficClones": 16,
+    "trafficClones": 10,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 9
+    "trafficUniqueClones": 6
   },
   {
     "name": "acacia-erd",
@@ -61,9 +61,9 @@
     "watchers": 3,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 8,
+    "trafficClones": 6,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 8
+    "trafficUniqueClones": 6
   },
   {
     "name": "acacia-parse",
@@ -72,9 +72,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   },
   {
     "name": "acacia-regex",
@@ -159,9 +159,9 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 1,
+    "trafficViews": 0,
     "trafficClones": 1,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 0,
     "trafficUniqueClones": 1
   },
   {
@@ -171,9 +171,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "github-stats-page",
@@ -184,7 +184,7 @@
     "trafficViews": 0,
     "trafficClones": 97,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 49
+    "trafficUniqueClones": 50
   },
   {
     "name": "ripgrep-notebook",
