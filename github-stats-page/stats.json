@@ -16,8 +16,8 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 44,
-    "trafficClones": 3,
+    "trafficViews": 35,
+    "trafficClones": 2,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 2
   },
@@ -94,9 +94,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   },
   {
     "name": "ClassTypist",
@@ -182,9 +182,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 88,
+    "trafficClones": 83,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 46
+    "trafficUniqueClones": 43
   },
   {
     "name": "ripgrep-notebook",
