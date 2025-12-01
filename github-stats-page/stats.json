@@ -5,10 +5,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 30,
-    "trafficClones": 1,
+    "trafficViews": 29,
+    "trafficClones": 0,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 0
   },
   {
     "name": "acacia-erd",
@@ -16,7 +16,7 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 35,
+    "trafficViews": 33,
     "trafficClones": 2,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 2
@@ -28,9 +28,9 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-lex",
@@ -50,9 +50,9 @@
     "watchers": 0,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 0,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 0
+    "trafficUniqueClones": 1
   },
   {
     "name": "acacia-log",
@@ -182,9 +182,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 83,
+    "trafficClones": 84,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 43
+    "trafficUniqueClones": 44
   },
   {
     "name": "ripgrep-notebook",
@@ -203,9 +203,9 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 30,
+    "trafficViews": 29,
     "trafficClones": 1,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 2,
     "trafficUniqueClones": 1
   },
   {
