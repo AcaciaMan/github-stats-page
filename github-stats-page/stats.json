@@ -61,9 +61,9 @@
     "watchers": 3,
     "issues": 1,
     "trafficViews": 2,
-    "trafficClones": 5,
+    "trafficClones": 4,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 5
+    "trafficUniqueClones": 4
   },
   {
     "name": "acacia-parse",
@@ -72,9 +72,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-regex",
@@ -127,9 +127,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   },
   {
     "name": "dec-tree-py",
@@ -160,9 +160,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 1
   },
   {
     "name": "EnvironmentalTrends",
@@ -182,9 +182,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 168,
+    "trafficClones": 172,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 86
+    "trafficUniqueClones": 89
   },
   {
     "name": "ripgrep-notebook",
