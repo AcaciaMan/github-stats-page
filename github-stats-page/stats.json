@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 23,
+    "trafficViews": 22,
     "trafficClones": 0,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 0
@@ -16,10 +16,10 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 27,
+    "trafficViews": 26,
     "trafficClones": 3,
     "trafficUniqueViews": 3,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-forex",
@@ -28,9 +28,9 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 0,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 0
+    "trafficUniqueClones": 1
   },
   {
     "name": "acacia-lex",
@@ -115,9 +115,9 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 1,
+    "trafficViews": 0,
     "trafficClones": 4,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 0,
     "trafficUniqueClones": 3
   },
   {
@@ -149,9 +149,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "ecanoe",
@@ -182,7 +182,7 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 172,
+    "trafficClones": 174,
     "trafficUniqueViews": 0,
     "trafficUniqueClones": 89
   },
@@ -203,7 +203,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 24,
+    "trafficViews": 23,
     "trafficClones": 3,
     "trafficUniqueViews": 4,
     "trafficUniqueClones": 3
@@ -214,9 +214,9 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 0,
+    "trafficViews": 1,
     "trafficClones": 2,
-    "trafficUniqueViews": 0,
+    "trafficUniqueViews": 1,
     "trafficUniqueClones": 2
   },
   {
@@ -225,9 +225,9 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 1,
+    "trafficViews": 0,
     "trafficClones": 1,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 0,
     "trafficUniqueClones": 1
   },
   {
