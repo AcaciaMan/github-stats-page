@@ -5,7 +5,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 20,
+    "trafficViews": 19,
     "trafficClones": 0,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 0
@@ -16,7 +16,7 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 25,
+    "trafficViews": 24,
     "trafficClones": 3,
     "trafficUniqueViews": 3,
     "trafficUniqueClones": 2
@@ -28,9 +28,9 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-lex",
@@ -39,9 +39,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 4
   },
   {
     "name": "acacia-lexer",
@@ -83,9 +83,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 0,
+    "trafficClones": 1,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 0
+    "trafficUniqueClones": 1
   },
   {
     "name": "acaciaman.github.io",
@@ -138,9 +138,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 5,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 5
   },
   {
     "name": "dec-tree-vscode",
@@ -149,9 +149,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 2,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 2
+    "trafficUniqueClones": 3
   },
   {
     "name": "ecanoe",
@@ -182,9 +182,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 173,
+    "trafficClones": 175,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 89
+    "trafficUniqueClones": 91
   },
   {
     "name": "ripgrep-notebook",
@@ -203,7 +203,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 22,
+    "trafficViews": 21,
     "trafficClones": 2,
     "trafficUniqueViews": 4,
     "trafficUniqueClones": 2
