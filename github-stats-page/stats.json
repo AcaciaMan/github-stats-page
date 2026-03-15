@@ -6,9 +6,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 2,
-    "trafficClones": 4,
+    "trafficClones": 6,
     "trafficUniqueViews": 2,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 6
   },
   {
     "name": "acacia-erd",
@@ -16,10 +16,10 @@
     "forks": 1,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 75,
-    "trafficClones": 51,
-    "trafficUniqueViews": 4,
-    "trafficUniqueClones": 30
+    "trafficViews": 61,
+    "trafficClones": 25,
+    "trafficUniqueViews": 5,
+    "trafficUniqueClones": 19
   },
   {
     "name": "acacia-forex",
@@ -28,9 +28,9 @@
     "watchers": 1,
     "issues": 1,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "acacia-lex",
@@ -60,10 +60,10 @@
     "forks": 0,
     "watchers": 3,
     "issues": 1,
-    "trafficViews": 69,
-    "trafficClones": 47,
+    "trafficViews": 47,
+    "trafficClones": 7,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 23
+    "trafficUniqueClones": 7
   },
   {
     "name": "acacia-parse",
@@ -72,9 +72,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 4,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 4
+    "trafficUniqueClones": 3
   },
   {
     "name": "acacia-regex",
@@ -83,9 +83,9 @@
     "watchers": 1,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 2,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 2
   },
   {
     "name": "acaciaman",
@@ -105,9 +105,9 @@
     "watchers": 0,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 1,
+    "trafficClones": 3,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
+    "trafficUniqueClones": 3
   },
   {
     "name": "canoe-slalom-live",
@@ -115,7 +115,7 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 66,
+    "trafficViews": 75,
     "trafficClones": 62,
     "trafficUniqueViews": 1,
     "trafficUniqueClones": 43
@@ -138,9 +138,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 8,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 6
+    "trafficUniqueClones": 4
   },
   {
     "name": "db-autotest-vscode",
@@ -170,13 +170,24 @@
     "forks": 0,
     "watchers": 1,
     "issues": 0,
-    "trafficViews": 1,
+    "trafficViews": 0,
     "trafficClones": 2,
-    "trafficUniqueViews": 1,
+    "trafficUniqueViews": 0,
     "trafficUniqueClones": 2
   },
   {
     "name": "ecanoe",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "issues": 0,
+    "trafficViews": 0,
+    "trafficClones": 5,
+    "trafficUniqueViews": 0,
+    "trafficUniqueClones": 5
+  },
+  {
+    "name": "EnvironmentalTrends",
     "stars": 0,
     "forks": 0,
     "watchers": 0,
@@ -187,7 +198,29 @@
     "trafficUniqueClones": 2
   },
   {
-    "name": "EnvironmentalTrends",
+    "name": "github-stats-page",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "issues": 0,
+    "trafficViews": 12,
+    "trafficClones": 15,
+    "trafficUniqueViews": 1,
+    "trafficUniqueClones": 12
+  },
+  {
+    "name": "repo-promoter-agent",
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "issues": 0,
+    "trafficViews": 28,
+    "trafficClones": 159,
+    "trafficUniqueViews": 1,
+    "trafficUniqueClones": 77
+  },
+  {
+    "name": "ripgrep-notebook",
     "stars": 0,
     "forks": 0,
     "watchers": 0,
@@ -198,45 +231,12 @@
     "trafficUniqueClones": 3
   },
   {
-    "name": "github-stats-page",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "issues": 0,
-    "trafficViews": 0,
-    "trafficClones": 6,
-    "trafficUniqueViews": 0,
-    "trafficUniqueClones": 5
-  },
-  {
-    "name": "repo-promoter-agent",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "issues": 0,
-    "trafficViews": 0,
-    "trafficClones": 0,
-    "trafficUniqueViews": 0,
-    "trafficUniqueClones": 0
-  },
-  {
-    "name": "ripgrep-notebook",
-    "stars": 0,
-    "forks": 0,
-    "watchers": 0,
-    "issues": 0,
-    "trafficViews": 0,
-    "trafficClones": 1,
-    "trafficUniqueViews": 0,
-    "trafficUniqueClones": 1
-  },
-  {
     "name": "smart-search",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
-    "watchers": 1,
+    "watchers": 2,
     "issues": 0,
-    "trafficViews": 54,
+    "trafficViews": 40,
     "trafficClones": 10,
     "trafficUniqueViews": 2,
     "trafficUniqueClones": 10
@@ -247,9 +247,9 @@
     "forks": 0,
     "watchers": 2,
     "issues": 0,
-    "trafficViews": 1,
-    "trafficClones": 8,
-    "trafficUniqueViews": 1,
+    "trafficViews": 0,
+    "trafficClones": 7,
+    "trafficUniqueViews": 0,
     "trafficUniqueClones": 6
   },
   {
@@ -259,9 +259,9 @@
     "watchers": 2,
     "issues": 0,
     "trafficViews": 0,
-    "trafficClones": 3,
+    "trafficClones": 4,
     "trafficUniqueViews": 0,
-    "trafficUniqueClones": 3
+    "trafficUniqueClones": 4
   },
   {
     "name": "village-square",
@@ -269,10 +269,10 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 96,
-    "trafficClones": 110,
+    "trafficViews": 75,
+    "trafficClones": 22,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 66
+    "trafficUniqueClones": 15
   },
   {
     "name": "vscode-git-kafka",
@@ -291,9 +291,9 @@
     "forks": 0,
     "watchers": 0,
     "issues": 0,
-    "trafficViews": 29,
-    "trafficClones": 44,
+    "trafficViews": 39,
+    "trafficClones": 48,
     "trafficUniqueViews": 1,
-    "trafficUniqueClones": 35
+    "trafficUniqueClones": 38
   }
 ]
